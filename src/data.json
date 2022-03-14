@@ -1,0 +1,34 @@
+{
+    "rankOrder": [
+        "A",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "T",
+        "J",
+        "Q",
+        "K"
+    ],
+    "handsOrder": [
+        "Straight flush",
+        "4 of a kind",
+        "Full house",
+        "Flush",
+        "Straight",
+        "3 of a kind",
+        "2 pair",
+        "1 pair",
+        "High card"
+    ],
+    "suits": [
+        "H",
+        "D",
+        "S",
+        "C"
+    ]
+}

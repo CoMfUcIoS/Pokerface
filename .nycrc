@@ -1,0 +1,46 @@
+{
+    "check-coverage": false,
+    "watermarks": {
+        "lines": [
+            80,
+            95
+        ],
+        "functions": [
+            80,
+            95
+        ],
+        "branches": [
+            80,
+            95
+        ],
+        "statements": [
+            80,
+            95
+        ]
+    },
+    "reporter": [
+        "html",
+        "text-summary",
+        "json"
+    ],
+    "include": [
+        "src/**/*.{js,jsx}"
+    ],
+    "exclude": [
+        "src/**/*.test.{js,jsx}"
+    ],
+    "extension": [
+			".jsx",
+			".js"
+		],
+    "require": [
+        "@babel/polyfill",
+        "@babel/register",
+        "ignore-styles",
+        "mocha-snapshots",
+        "isomorphic-fetch",
+        "./test/setup.js"
+    ],
+    "cache": false,
+    "all": true
+}

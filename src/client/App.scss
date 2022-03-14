@@ -1,0 +1,41 @@
+.app {
+  display: grid;
+  grid-template-rows: auto;
+  grid-template-columns: auto 80% auto;
+  grid-column-gap: 10px;
+  grid-row-gap: 40px;
+  grid-template-areas:
+    ". upload ."
+    ". hands .";
+}
+
+.hands {
+  grid-area: hands;
+  place-self: center;
+}
+
+.upload {
+  grid-area: upload;
+  position: sticky;
+  display: flex;
+  top: 0;
+  background-color: white;
+  width: 100%;
+  z-index: 2;
+  height: 50px;
+}
+
+.upload-actions {
+  width: 100%;
+  text-align: center;
+  margin-top: 10px;
+  font-size: 18px;
+}
+
+.loading {
+  margin-left: 12px;
+  margin-top: -2px;
+  height: 20px;
+  width: 20px;
+
+}

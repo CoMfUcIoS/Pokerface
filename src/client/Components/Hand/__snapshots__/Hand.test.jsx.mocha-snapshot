@@ -1,0 +1,6502 @@
+exports["Hand.jsx view/Renders flipped cards(0)"] = {
+  "node": {
+    "nodeType": "host",
+    "type": "div",
+    "props": {
+      "className": "hand",
+      "children": [
+        [
+          {
+            "type": "t",
+            "key": "1",
+            "props": {
+              "isFlipped": false,
+              "flipDirection": "horizontal",
+              "children": [
+                {
+                  "type": "div",
+                  "key": "front",
+                  "props": {
+                    "className": "card",
+                    "children": {
+                      "type": "PlayingCard",
+                      "props": {
+                        "card": {
+                          "id": "B2",
+                          "suit": "none",
+                          "color": "none",
+                          "value": 0
+                        },
+                        "size": "small"
+                      },
+                      "_store": {}
+                    }
+                  },
+                  "_store": {}
+                },
+                {
+                  "type": "div",
+                  "key": "back",
+                  "props": {
+                    "className": "card",
+                    "children": [
+                      {
+                        "type": "PlayingCard",
+                        "props": {
+                          "card": {
+                            "id": "H11"
+                          },
+                          "size": "small",
+                          "caption": true,
+                          "captionPosition": "bottom"
+                        },
+                        "_store": {}
+                      },
+                      {
+                        "type": "br",
+                        "props": {},
+                        "_store": {}
+                      },
+                      {
+                        "type": "span",
+                        "props": {
+                          "className": "card-definition",
+                          "children": "JH"
+                        },
+                        "_store": {}
+                      }
+                    ]
+                  },
+                  "_store": {}
+                }
+              ],
+              "containerStyle": {},
+              "cardStyles": {
+                "front": {},
+                "back": {}
+              },
+              "cardZIndex": "auto",
+              "flipSpeedBackToFront": 0.6,
+              "flipSpeedFrontToBack": 0.6,
+              "infinite": false
+            },
+            "_store": {}
+          },
+          {
+            "type": "t",
+            "key": "2",
+            "props": {
+              "isFlipped": false,
+              "flipDirection": "horizontal",
+              "children": [
+                {
+                  "type": "div",
+                  "key": "front",
+                  "props": {
+                    "className": "card",
+                    "children": {
+                      "type": "PlayingCard",
+                      "props": {
+                        "card": {
+                          "id": "B2",
+                          "suit": "none",
+                          "color": "none",
+                          "value": 0
+                        },
+                        "size": "small"
+                      },
+                      "_store": {}
+                    }
+                  },
+                  "_store": {}
+                },
+                {
+                  "type": "div",
+                  "key": "back",
+                  "props": {
+                    "className": "card",
+                    "children": [
+                      {
+                        "type": "PlayingCard",
+                        "props": {
+                          "card": {
+                            "id": "C2"
+                          },
+                          "size": "small",
+                          "caption": true,
+                          "captionPosition": "bottom"
+                        },
+                        "_store": {}
+                      },
+                      {
+                        "type": "br",
+                        "props": {},
+                        "_store": {}
+                      },
+                      {
+                        "type": "span",
+                        "props": {
+                          "className": "card-definition",
+                          "children": "2C"
+                        },
+                        "_store": {}
+                      }
+                    ]
+                  },
+                  "_store": {}
+                }
+              ],
+              "containerStyle": {},
+              "cardStyles": {
+                "front": {},
+                "back": {}
+              },
+              "cardZIndex": "auto",
+              "flipSpeedBackToFront": 0.6,
+              "flipSpeedFrontToBack": 0.6,
+              "infinite": false
+            },
+            "_store": {}
+          },
+          {
+            "type": "t",
+            "key": "3",
+            "props": {
+              "isFlipped": false,
+              "flipDirection": "horizontal",
+              "children": [
+                {
+                  "type": "div",
+                  "key": "front",
+                  "props": {
+                    "className": "card",
+                    "children": {
+                      "type": "PlayingCard",
+                      "props": {
+                        "card": {
+                          "id": "B2",
+                          "suit": "none",
+                          "color": "none",
+                          "value": 0
+                        },
+                        "size": "small"
+                      },
+                      "_store": {}
+                    }
+                  },
+                  "_store": {}
+                },
+                {
+                  "type": "div",
+                  "key": "back",
+                  "props": {
+                    "className": "card",
+                    "children": [
+                      {
+                        "type": "PlayingCard",
+                        "props": {
+                          "card": {
+                            "id": "D11"
+                          },
+                          "size": "small",
+                          "caption": true,
+                          "captionPosition": "bottom"
+                        },
+                        "_store": {}
+                      },
+                      {
+                        "type": "br",
+                        "props": {},
+                        "_store": {}
+                      },
+                      {
+                        "type": "span",
+                        "props": {
+                          "className": "card-definition",
+                          "children": "JD"
+                        },
+                        "_store": {}
+                      }
+                    ]
+                  },
+                  "_store": {}
+                }
+              ],
+              "containerStyle": {},
+              "cardStyles": {
+                "front": {},
+                "back": {}
+              },
+              "cardZIndex": "auto",
+              "flipSpeedBackToFront": 0.6,
+              "flipSpeedFrontToBack": 0.6,
+              "infinite": false
+            },
+            "_store": {}
+          },
+          {
+            "type": "t",
+            "key": "4",
+            "props": {
+              "isFlipped": false,
+              "flipDirection": "horizontal",
+              "children": [
+                {
+                  "type": "div",
+                  "key": "front",
+                  "props": {
+                    "className": "card",
+                    "children": {
+                      "type": "PlayingCard",
+                      "props": {
+                        "card": {
+                          "id": "B2",
+                          "suit": "none",
+                          "color": "none",
+                          "value": 0
+                        },
+                        "size": "small"
+                      },
+                      "_store": {}
+                    }
+                  },
+                  "_store": {}
+                },
+                {
+                  "type": "div",
+                  "key": "back",
+                  "props": {
+                    "className": "card",
+                    "children": [
+                      {
+                        "type": "PlayingCard",
+                        "props": {
+                          "card": {
+                            "id": "H11"
+                          },
+                          "size": "small",
+                          "caption": true,
+                          "captionPosition": "bottom"
+                        },
+                        "_store": {}
+                      },
+                      {
+                        "type": "br",
+                        "props": {},
+                        "_store": {}
+                      },
+                      {
+                        "type": "span",
+                        "props": {
+                          "className": "card-definition",
+                          "children": "11H"
+                        },
+                        "_store": {}
+                      }
+                    ]
+                  },
+                  "_store": {}
+                }
+              ],
+              "containerStyle": {},
+              "cardStyles": {
+                "front": {},
+                "back": {}
+              },
+              "cardZIndex": "auto",
+              "flipSpeedBackToFront": 0.6,
+              "flipSpeedFrontToBack": 0.6,
+              "infinite": false
+            },
+            "_store": {}
+          },
+          {
+            "type": "t",
+            "key": "5",
+            "props": {
+              "isFlipped": false,
+              "flipDirection": "horizontal",
+              "children": [
+                {
+                  "type": "div",
+                  "key": "front",
+                  "props": {
+                    "className": "card",
+                    "children": {
+                      "type": "PlayingCard",
+                      "props": {
+                        "card": {
+                          "id": "B2",
+                          "suit": "none",
+                          "color": "none",
+                          "value": 0
+                        },
+                        "size": "small"
+                      },
+                      "_store": {}
+                    }
+                  },
+                  "_store": {}
+                },
+                {
+                  "type": "div",
+                  "key": "back",
+                  "props": {
+                    "className": "card",
+                    "children": [
+                      {
+                        "type": "PlayingCard",
+                        "props": {
+                          "card": {
+                            "id": "C4"
+                          },
+                          "size": "small",
+                          "caption": true,
+                          "captionPosition": "bottom"
+                        },
+                        "_store": {}
+                      },
+                      {
+                        "type": "br",
+                        "props": {},
+                        "_store": {}
+                      },
+                      {
+                        "type": "span",
+                        "props": {
+                          "className": "card-definition",
+                          "children": "4C"
+                        },
+                        "_store": {}
+                      }
+                    ]
+                  },
+                  "_store": {}
+                }
+              ],
+              "containerStyle": {},
+              "cardStyles": {
+                "front": {},
+                "back": {}
+              },
+              "cardZIndex": "auto",
+              "flipSpeedBackToFront": 0.6,
+              "flipSpeedFrontToBack": 0.6,
+              "infinite": false
+            },
+            "_store": {}
+          }
+        ],
+        {
+          "type": "br",
+          "props": {},
+          "_store": {}
+        },
+        {
+          "type": "span",
+          "props": {
+            "className": "poker-hand",
+            "children": "1 pair"
+          },
+          "_store": {}
+        }
+      ]
+    },
+    "rendered": [
+      {
+        "nodeType": "class",
+        "type": "t",
+        "props": {
+          "isFlipped": false,
+          "flipDirection": "horizontal",
+          "children": [
+            {
+              "type": "div",
+              "key": "front",
+              "props": {
+                "className": "card",
+                "children": {
+                  "type": "PlayingCard",
+                  "props": {
+                    "card": {
+                      "id": "B2",
+                      "suit": "none",
+                      "color": "none",
+                      "value": 0
+                    },
+                    "size": "small"
+                  },
+                  "_store": {}
+                }
+              },
+              "_store": {}
+            },
+            {
+              "type": "div",
+              "key": "back",
+              "props": {
+                "className": "card",
+                "children": [
+                  {
+                    "type": "PlayingCard",
+                    "props": {
+                      "card": {
+                        "id": "H11"
+                      },
+                      "size": "small",
+                      "caption": true,
+                      "captionPosition": "bottom"
+                    },
+                    "_store": {}
+                  },
+                  {
+                    "type": "br",
+                    "props": {},
+                    "_store": {}
+                  },
+                  {
+                    "type": "span",
+                    "props": {
+                      "className": "card-definition",
+                      "children": "JH"
+                    },
+                    "_store": {}
+                  }
+                ]
+              },
+              "_store": {}
+            }
+          ],
+          "containerStyle": {},
+          "cardStyles": {
+            "front": {},
+            "back": {}
+          },
+          "cardZIndex": "auto",
+          "flipSpeedBackToFront": 0.6,
+          "flipSpeedFrontToBack": 0.6,
+          "infinite": false
+        },
+        "key": "1",
+        "rendered": [
+          {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": {
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "B2",
+                    "suit": "none",
+                    "color": "none",
+                    "value": 0
+                  },
+                  "size": "small"
+                },
+                "_store": {}
+              }
+            },
+            "key": "front",
+            "rendered": {
+              "nodeType": "function",
+              "type": "PlayingCard",
+              "props": {
+                "card": {
+                  "id": "B2",
+                  "suit": "none",
+                  "color": "none",
+                  "value": 0
+                },
+                "size": "small"
+              }
+            }
+          },
+          {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": [
+                {
+                  "type": "PlayingCard",
+                  "props": {
+                    "card": {
+                      "id": "H11"
+                    },
+                    "size": "small",
+                    "caption": true,
+                    "captionPosition": "bottom"
+                  },
+                  "_store": {}
+                },
+                {
+                  "type": "br",
+                  "props": {},
+                  "_store": {}
+                },
+                {
+                  "type": "span",
+                  "props": {
+                    "className": "card-definition",
+                    "children": "JH"
+                  },
+                  "_store": {}
+                }
+              ]
+            },
+            "key": "back",
+            "rendered": [
+              {
+                "nodeType": "function",
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "H11"
+                  },
+                  "size": "small",
+                  "caption": true,
+                  "captionPosition": "bottom"
+                }
+              },
+              {
+                "nodeType": "host",
+                "type": "br",
+                "props": {}
+              },
+              {
+                "nodeType": "host",
+                "type": "span",
+                "props": {
+                  "className": "card-definition",
+                  "children": "JH"
+                },
+                "rendered": "JH"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nodeType": "class",
+        "type": "t",
+        "props": {
+          "isFlipped": false,
+          "flipDirection": "horizontal",
+          "children": [
+            {
+              "type": "div",
+              "key": "front",
+              "props": {
+                "className": "card",
+                "children": {
+                  "type": "PlayingCard",
+                  "props": {
+                    "card": {
+                      "id": "B2",
+                      "suit": "none",
+                      "color": "none",
+                      "value": 0
+                    },
+                    "size": "small"
+                  },
+                  "_store": {}
+                }
+              },
+              "_store": {}
+            },
+            {
+              "type": "div",
+              "key": "back",
+              "props": {
+                "className": "card",
+                "children": [
+                  {
+                    "type": "PlayingCard",
+                    "props": {
+                      "card": {
+                        "id": "C2"
+                      },
+                      "size": "small",
+                      "caption": true,
+                      "captionPosition": "bottom"
+                    },
+                    "_store": {}
+                  },
+                  {
+                    "type": "br",
+                    "props": {},
+                    "_store": {}
+                  },
+                  {
+                    "type": "span",
+                    "props": {
+                      "className": "card-definition",
+                      "children": "2C"
+                    },
+                    "_store": {}
+                  }
+                ]
+              },
+              "_store": {}
+            }
+          ],
+          "containerStyle": {},
+          "cardStyles": {
+            "front": {},
+            "back": {}
+          },
+          "cardZIndex": "auto",
+          "flipSpeedBackToFront": 0.6,
+          "flipSpeedFrontToBack": 0.6,
+          "infinite": false
+        },
+        "key": "2",
+        "rendered": [
+          {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": {
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "B2",
+                    "suit": "none",
+                    "color": "none",
+                    "value": 0
+                  },
+                  "size": "small"
+                },
+                "_store": {}
+              }
+            },
+            "key": "front",
+            "rendered": {
+              "nodeType": "function",
+              "type": "PlayingCard",
+              "props": {
+                "card": {
+                  "id": "B2",
+                  "suit": "none",
+                  "color": "none",
+                  "value": 0
+                },
+                "size": "small"
+              }
+            }
+          },
+          {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": [
+                {
+                  "type": "PlayingCard",
+                  "props": {
+                    "card": {
+                      "id": "C2"
+                    },
+                    "size": "small",
+                    "caption": true,
+                    "captionPosition": "bottom"
+                  },
+                  "_store": {}
+                },
+                {
+                  "type": "br",
+                  "props": {},
+                  "_store": {}
+                },
+                {
+                  "type": "span",
+                  "props": {
+                    "className": "card-definition",
+                    "children": "2C"
+                  },
+                  "_store": {}
+                }
+              ]
+            },
+            "key": "back",
+            "rendered": [
+              {
+                "nodeType": "function",
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "C2"
+                  },
+                  "size": "small",
+                  "caption": true,
+                  "captionPosition": "bottom"
+                }
+              },
+              {
+                "nodeType": "host",
+                "type": "br",
+                "props": {}
+              },
+              {
+                "nodeType": "host",
+                "type": "span",
+                "props": {
+                  "className": "card-definition",
+                  "children": "2C"
+                },
+                "rendered": "2C"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nodeType": "class",
+        "type": "t",
+        "props": {
+          "isFlipped": false,
+          "flipDirection": "horizontal",
+          "children": [
+            {
+              "type": "div",
+              "key": "front",
+              "props": {
+                "className": "card",
+                "children": {
+                  "type": "PlayingCard",
+                  "props": {
+                    "card": {
+                      "id": "B2",
+                      "suit": "none",
+                      "color": "none",
+                      "value": 0
+                    },
+                    "size": "small"
+                  },
+                  "_store": {}
+                }
+              },
+              "_store": {}
+            },
+            {
+              "type": "div",
+              "key": "back",
+              "props": {
+                "className": "card",
+                "children": [
+                  {
+                    "type": "PlayingCard",
+                    "props": {
+                      "card": {
+                        "id": "D11"
+                      },
+                      "size": "small",
+                      "caption": true,
+                      "captionPosition": "bottom"
+                    },
+                    "_store": {}
+                  },
+                  {
+                    "type": "br",
+                    "props": {},
+                    "_store": {}
+                  },
+                  {
+                    "type": "span",
+                    "props": {
+                      "className": "card-definition",
+                      "children": "JD"
+                    },
+                    "_store": {}
+                  }
+                ]
+              },
+              "_store": {}
+            }
+          ],
+          "containerStyle": {},
+          "cardStyles": {
+            "front": {},
+            "back": {}
+          },
+          "cardZIndex": "auto",
+          "flipSpeedBackToFront": 0.6,
+          "flipSpeedFrontToBack": 0.6,
+          "infinite": false
+        },
+        "key": "3",
+        "rendered": [
+          {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": {
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "B2",
+                    "suit": "none",
+                    "color": "none",
+                    "value": 0
+                  },
+                  "size": "small"
+                },
+                "_store": {}
+              }
+            },
+            "key": "front",
+            "rendered": {
+              "nodeType": "function",
+              "type": "PlayingCard",
+              "props": {
+                "card": {
+                  "id": "B2",
+                  "suit": "none",
+                  "color": "none",
+                  "value": 0
+                },
+                "size": "small"
+              }
+            }
+          },
+          {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": [
+                {
+                  "type": "PlayingCard",
+                  "props": {
+                    "card": {
+                      "id": "D11"
+                    },
+                    "size": "small",
+                    "caption": true,
+                    "captionPosition": "bottom"
+                  },
+                  "_store": {}
+                },
+                {
+                  "type": "br",
+                  "props": {},
+                  "_store": {}
+                },
+                {
+                  "type": "span",
+                  "props": {
+                    "className": "card-definition",
+                    "children": "JD"
+                  },
+                  "_store": {}
+                }
+              ]
+            },
+            "key": "back",
+            "rendered": [
+              {
+                "nodeType": "function",
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "D11"
+                  },
+                  "size": "small",
+                  "caption": true,
+                  "captionPosition": "bottom"
+                }
+              },
+              {
+                "nodeType": "host",
+                "type": "br",
+                "props": {}
+              },
+              {
+                "nodeType": "host",
+                "type": "span",
+                "props": {
+                  "className": "card-definition",
+                  "children": "JD"
+                },
+                "rendered": "JD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nodeType": "class",
+        "type": "t",
+        "props": {
+          "isFlipped": false,
+          "flipDirection": "horizontal",
+          "children": [
+            {
+              "type": "div",
+              "key": "front",
+              "props": {
+                "className": "card",
+                "children": {
+                  "type": "PlayingCard",
+                  "props": {
+                    "card": {
+                      "id": "B2",
+                      "suit": "none",
+                      "color": "none",
+                      "value": 0
+                    },
+                    "size": "small"
+                  },
+                  "_store": {}
+                }
+              },
+              "_store": {}
+            },
+            {
+              "type": "div",
+              "key": "back",
+              "props": {
+                "className": "card",
+                "children": [
+                  {
+                    "type": "PlayingCard",
+                    "props": {
+                      "card": {
+                        "id": "H11"
+                      },
+                      "size": "small",
+                      "caption": true,
+                      "captionPosition": "bottom"
+                    },
+                    "_store": {}
+                  },
+                  {
+                    "type": "br",
+                    "props": {},
+                    "_store": {}
+                  },
+                  {
+                    "type": "span",
+                    "props": {
+                      "className": "card-definition",
+                      "children": "11H"
+                    },
+                    "_store": {}
+                  }
+                ]
+              },
+              "_store": {}
+            }
+          ],
+          "containerStyle": {},
+          "cardStyles": {
+            "front": {},
+            "back": {}
+          },
+          "cardZIndex": "auto",
+          "flipSpeedBackToFront": 0.6,
+          "flipSpeedFrontToBack": 0.6,
+          "infinite": false
+        },
+        "key": "4",
+        "rendered": [
+          {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": {
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "B2",
+                    "suit": "none",
+                    "color": "none",
+                    "value": 0
+                  },
+                  "size": "small"
+                },
+                "_store": {}
+              }
+            },
+            "key": "front",
+            "rendered": {
+              "nodeType": "function",
+              "type": "PlayingCard",
+              "props": {
+                "card": {
+                  "id": "B2",
+                  "suit": "none",
+                  "color": "none",
+                  "value": 0
+                },
+                "size": "small"
+              }
+            }
+          },
+          {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": [
+                {
+                  "type": "PlayingCard",
+                  "props": {
+                    "card": {
+                      "id": "H11"
+                    },
+                    "size": "small",
+                    "caption": true,
+                    "captionPosition": "bottom"
+                  },
+                  "_store": {}
+                },
+                {
+                  "type": "br",
+                  "props": {},
+                  "_store": {}
+                },
+                {
+                  "type": "span",
+                  "props": {
+                    "className": "card-definition",
+                    "children": "11H"
+                  },
+                  "_store": {}
+                }
+              ]
+            },
+            "key": "back",
+            "rendered": [
+              {
+                "nodeType": "function",
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "H11"
+                  },
+                  "size": "small",
+                  "caption": true,
+                  "captionPosition": "bottom"
+                }
+              },
+              {
+                "nodeType": "host",
+                "type": "br",
+                "props": {}
+              },
+              {
+                "nodeType": "host",
+                "type": "span",
+                "props": {
+                  "className": "card-definition",
+                  "children": "11H"
+                },
+                "rendered": "11H"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nodeType": "class",
+        "type": "t",
+        "props": {
+          "isFlipped": false,
+          "flipDirection": "horizontal",
+          "children": [
+            {
+              "type": "div",
+              "key": "front",
+              "props": {
+                "className": "card",
+                "children": {
+                  "type": "PlayingCard",
+                  "props": {
+                    "card": {
+                      "id": "B2",
+                      "suit": "none",
+                      "color": "none",
+                      "value": 0
+                    },
+                    "size": "small"
+                  },
+                  "_store": {}
+                }
+              },
+              "_store": {}
+            },
+            {
+              "type": "div",
+              "key": "back",
+              "props": {
+                "className": "card",
+                "children": [
+                  {
+                    "type": "PlayingCard",
+                    "props": {
+                      "card": {
+                        "id": "C4"
+                      },
+                      "size": "small",
+                      "caption": true,
+                      "captionPosition": "bottom"
+                    },
+                    "_store": {}
+                  },
+                  {
+                    "type": "br",
+                    "props": {},
+                    "_store": {}
+                  },
+                  {
+                    "type": "span",
+                    "props": {
+                      "className": "card-definition",
+                      "children": "4C"
+                    },
+                    "_store": {}
+                  }
+                ]
+              },
+              "_store": {}
+            }
+          ],
+          "containerStyle": {},
+          "cardStyles": {
+            "front": {},
+            "back": {}
+          },
+          "cardZIndex": "auto",
+          "flipSpeedBackToFront": 0.6,
+          "flipSpeedFrontToBack": 0.6,
+          "infinite": false
+        },
+        "key": "5",
+        "rendered": [
+          {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": {
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "B2",
+                    "suit": "none",
+                    "color": "none",
+                    "value": 0
+                  },
+                  "size": "small"
+                },
+                "_store": {}
+              }
+            },
+            "key": "front",
+            "rendered": {
+              "nodeType": "function",
+              "type": "PlayingCard",
+              "props": {
+                "card": {
+                  "id": "B2",
+                  "suit": "none",
+                  "color": "none",
+                  "value": 0
+                },
+                "size": "small"
+              }
+            }
+          },
+          {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": [
+                {
+                  "type": "PlayingCard",
+                  "props": {
+                    "card": {
+                      "id": "C4"
+                    },
+                    "size": "small",
+                    "caption": true,
+                    "captionPosition": "bottom"
+                  },
+                  "_store": {}
+                },
+                {
+                  "type": "br",
+                  "props": {},
+                  "_store": {}
+                },
+                {
+                  "type": "span",
+                  "props": {
+                    "className": "card-definition",
+                    "children": "4C"
+                  },
+                  "_store": {}
+                }
+              ]
+            },
+            "key": "back",
+            "rendered": [
+              {
+                "nodeType": "function",
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "C4"
+                  },
+                  "size": "small",
+                  "caption": true,
+                  "captionPosition": "bottom"
+                }
+              },
+              {
+                "nodeType": "host",
+                "type": "br",
+                "props": {}
+              },
+              {
+                "nodeType": "host",
+                "type": "span",
+                "props": {
+                  "className": "card-definition",
+                  "children": "4C"
+                },
+                "rendered": "4C"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nodeType": "host",
+        "type": "br",
+        "props": {}
+      },
+      {
+        "nodeType": "host",
+        "type": "span",
+        "props": {
+          "className": "poker-hand",
+          "children": "1 pair"
+        },
+        "rendered": "1 pair"
+      }
+    ]
+  },
+  "type": "div",
+  "props": {
+    "className": "hand"
+  },
+  "children": [
+    {
+      "node": {
+        "nodeType": "class",
+        "type": "t",
+        "props": {
+          "isFlipped": false,
+          "flipDirection": "horizontal",
+          "children": [
+            {
+              "type": "div",
+              "key": "front",
+              "props": {
+                "className": "card",
+                "children": {
+                  "type": "PlayingCard",
+                  "props": {
+                    "card": {
+                      "id": "B2",
+                      "suit": "none",
+                      "color": "none",
+                      "value": 0
+                    },
+                    "size": "small"
+                  },
+                  "_store": {}
+                }
+              },
+              "_store": {}
+            },
+            {
+              "type": "div",
+              "key": "back",
+              "props": {
+                "className": "card",
+                "children": [
+                  {
+                    "type": "PlayingCard",
+                    "props": {
+                      "card": {
+                        "id": "H11"
+                      },
+                      "size": "small",
+                      "caption": true,
+                      "captionPosition": "bottom"
+                    },
+                    "_store": {}
+                  },
+                  {
+                    "type": "br",
+                    "props": {},
+                    "_store": {}
+                  },
+                  {
+                    "type": "span",
+                    "props": {
+                      "className": "card-definition",
+                      "children": "JH"
+                    },
+                    "_store": {}
+                  }
+                ]
+              },
+              "_store": {}
+            }
+          ],
+          "containerStyle": {},
+          "cardStyles": {
+            "front": {},
+            "back": {}
+          },
+          "cardZIndex": "auto",
+          "flipSpeedBackToFront": 0.6,
+          "flipSpeedFrontToBack": 0.6,
+          "infinite": false
+        },
+        "key": "1",
+        "rendered": [
+          {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": {
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "B2",
+                    "suit": "none",
+                    "color": "none",
+                    "value": 0
+                  },
+                  "size": "small"
+                },
+                "_store": {}
+              }
+            },
+            "key": "front",
+            "rendered": {
+              "nodeType": "function",
+              "type": "PlayingCard",
+              "props": {
+                "card": {
+                  "id": "B2",
+                  "suit": "none",
+                  "color": "none",
+                  "value": 0
+                },
+                "size": "small"
+              }
+            }
+          },
+          {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": [
+                {
+                  "type": "PlayingCard",
+                  "props": {
+                    "card": {
+                      "id": "H11"
+                    },
+                    "size": "small",
+                    "caption": true,
+                    "captionPosition": "bottom"
+                  },
+                  "_store": {}
+                },
+                {
+                  "type": "br",
+                  "props": {},
+                  "_store": {}
+                },
+                {
+                  "type": "span",
+                  "props": {
+                    "className": "card-definition",
+                    "children": "JH"
+                  },
+                  "_store": {}
+                }
+              ]
+            },
+            "key": "back",
+            "rendered": [
+              {
+                "nodeType": "function",
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "H11"
+                  },
+                  "size": "small",
+                  "caption": true,
+                  "captionPosition": "bottom"
+                }
+              },
+              {
+                "nodeType": "host",
+                "type": "br",
+                "props": {}
+              },
+              {
+                "nodeType": "host",
+                "type": "span",
+                "props": {
+                  "className": "card-definition",
+                  "children": "JH"
+                },
+                "rendered": "JH"
+              }
+            ]
+          }
+        ]
+      },
+      "type": "t",
+      "props": {
+        "isFlipped": false,
+        "flipDirection": "horizontal",
+        "containerStyle": {},
+        "cardStyles": {
+          "front": {},
+          "back": {}
+        },
+        "cardZIndex": "auto",
+        "flipSpeedBackToFront": 0.6,
+        "flipSpeedFrontToBack": 0.6,
+        "infinite": false,
+        "key": "1"
+      },
+      "children": [
+        {
+          "node": {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": {
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "B2",
+                    "suit": "none",
+                    "color": "none",
+                    "value": 0
+                  },
+                  "size": "small"
+                },
+                "_store": {}
+              }
+            },
+            "key": "front",
+            "rendered": {
+              "nodeType": "function",
+              "type": "PlayingCard",
+              "props": {
+                "card": {
+                  "id": "B2",
+                  "suit": "none",
+                  "color": "none",
+                  "value": 0
+                },
+                "size": "small"
+              }
+            }
+          },
+          "type": "div",
+          "props": {
+            "className": "card",
+            "key": "front"
+          },
+          "children": [
+            {
+              "node": {
+                "nodeType": "function",
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "B2",
+                    "suit": "none",
+                    "color": "none",
+                    "value": 0
+                  },
+                  "size": "small"
+                }
+              },
+              "type": "PlayingCard",
+              "props": {
+                "card": {
+                  "id": "B2",
+                  "suit": "none",
+                  "color": "none",
+                  "value": 0
+                },
+                "size": "small"
+              }
+            }
+          ]
+        },
+        {
+          "node": {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": [
+                {
+                  "type": "PlayingCard",
+                  "props": {
+                    "card": {
+                      "id": "H11"
+                    },
+                    "size": "small",
+                    "caption": true,
+                    "captionPosition": "bottom"
+                  },
+                  "_store": {}
+                },
+                {
+                  "type": "br",
+                  "props": {},
+                  "_store": {}
+                },
+                {
+                  "type": "span",
+                  "props": {
+                    "className": "card-definition",
+                    "children": "JH"
+                  },
+                  "_store": {}
+                }
+              ]
+            },
+            "key": "back",
+            "rendered": [
+              {
+                "nodeType": "function",
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "H11"
+                  },
+                  "size": "small",
+                  "caption": true,
+                  "captionPosition": "bottom"
+                }
+              },
+              {
+                "nodeType": "host",
+                "type": "br",
+                "props": {}
+              },
+              {
+                "nodeType": "host",
+                "type": "span",
+                "props": {
+                  "className": "card-definition",
+                  "children": "JH"
+                },
+                "rendered": "JH"
+              }
+            ]
+          },
+          "type": "div",
+          "props": {
+            "className": "card",
+            "key": "back"
+          },
+          "children": [
+            {
+              "node": {
+                "nodeType": "function",
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "H11"
+                  },
+                  "size": "small",
+                  "caption": true,
+                  "captionPosition": "bottom"
+                }
+              },
+              "type": "PlayingCard",
+              "props": {
+                "card": {
+                  "id": "H11"
+                },
+                "size": "small",
+                "caption": true,
+                "captionPosition": "bottom"
+              }
+            },
+            {
+              "node": {
+                "nodeType": "host",
+                "type": "br",
+                "props": {}
+              },
+              "type": "br",
+              "props": {}
+            },
+            {
+              "node": {
+                "nodeType": "host",
+                "type": "span",
+                "props": {
+                  "className": "card-definition",
+                  "children": "JH"
+                },
+                "rendered": "JH"
+              },
+              "type": "span",
+              "props": {
+                "className": "card-definition"
+              },
+              "children": [
+                "JH"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": {
+        "nodeType": "class",
+        "type": "t",
+        "props": {
+          "isFlipped": false,
+          "flipDirection": "horizontal",
+          "children": [
+            {
+              "type": "div",
+              "key": "front",
+              "props": {
+                "className": "card",
+                "children": {
+                  "type": "PlayingCard",
+                  "props": {
+                    "card": {
+                      "id": "B2",
+                      "suit": "none",
+                      "color": "none",
+                      "value": 0
+                    },
+                    "size": "small"
+                  },
+                  "_store": {}
+                }
+              },
+              "_store": {}
+            },
+            {
+              "type": "div",
+              "key": "back",
+              "props": {
+                "className": "card",
+                "children": [
+                  {
+                    "type": "PlayingCard",
+                    "props": {
+                      "card": {
+                        "id": "C2"
+                      },
+                      "size": "small",
+                      "caption": true,
+                      "captionPosition": "bottom"
+                    },
+                    "_store": {}
+                  },
+                  {
+                    "type": "br",
+                    "props": {},
+                    "_store": {}
+                  },
+                  {
+                    "type": "span",
+                    "props": {
+                      "className": "card-definition",
+                      "children": "2C"
+                    },
+                    "_store": {}
+                  }
+                ]
+              },
+              "_store": {}
+            }
+          ],
+          "containerStyle": {},
+          "cardStyles": {
+            "front": {},
+            "back": {}
+          },
+          "cardZIndex": "auto",
+          "flipSpeedBackToFront": 0.6,
+          "flipSpeedFrontToBack": 0.6,
+          "infinite": false
+        },
+        "key": "2",
+        "rendered": [
+          {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": {
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "B2",
+                    "suit": "none",
+                    "color": "none",
+                    "value": 0
+                  },
+                  "size": "small"
+                },
+                "_store": {}
+              }
+            },
+            "key": "front",
+            "rendered": {
+              "nodeType": "function",
+              "type": "PlayingCard",
+              "props": {
+                "card": {
+                  "id": "B2",
+                  "suit": "none",
+                  "color": "none",
+                  "value": 0
+                },
+                "size": "small"
+              }
+            }
+          },
+          {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": [
+                {
+                  "type": "PlayingCard",
+                  "props": {
+                    "card": {
+                      "id": "C2"
+                    },
+                    "size": "small",
+                    "caption": true,
+                    "captionPosition": "bottom"
+                  },
+                  "_store": {}
+                },
+                {
+                  "type": "br",
+                  "props": {},
+                  "_store": {}
+                },
+                {
+                  "type": "span",
+                  "props": {
+                    "className": "card-definition",
+                    "children": "2C"
+                  },
+                  "_store": {}
+                }
+              ]
+            },
+            "key": "back",
+            "rendered": [
+              {
+                "nodeType": "function",
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "C2"
+                  },
+                  "size": "small",
+                  "caption": true,
+                  "captionPosition": "bottom"
+                }
+              },
+              {
+                "nodeType": "host",
+                "type": "br",
+                "props": {}
+              },
+              {
+                "nodeType": "host",
+                "type": "span",
+                "props": {
+                  "className": "card-definition",
+                  "children": "2C"
+                },
+                "rendered": "2C"
+              }
+            ]
+          }
+        ]
+      },
+      "type": "t",
+      "props": {
+        "isFlipped": false,
+        "flipDirection": "horizontal",
+        "containerStyle": {},
+        "cardStyles": {
+          "front": {},
+          "back": {}
+        },
+        "cardZIndex": "auto",
+        "flipSpeedBackToFront": 0.6,
+        "flipSpeedFrontToBack": 0.6,
+        "infinite": false,
+        "key": "2"
+      },
+      "children": [
+        {
+          "node": {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": {
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "B2",
+                    "suit": "none",
+                    "color": "none",
+                    "value": 0
+                  },
+                  "size": "small"
+                },
+                "_store": {}
+              }
+            },
+            "key": "front",
+            "rendered": {
+              "nodeType": "function",
+              "type": "PlayingCard",
+              "props": {
+                "card": {
+                  "id": "B2",
+                  "suit": "none",
+                  "color": "none",
+                  "value": 0
+                },
+                "size": "small"
+              }
+            }
+          },
+          "type": "div",
+          "props": {
+            "className": "card",
+            "key": "front"
+          },
+          "children": [
+            {
+              "node": {
+                "nodeType": "function",
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "B2",
+                    "suit": "none",
+                    "color": "none",
+                    "value": 0
+                  },
+                  "size": "small"
+                }
+              },
+              "type": "PlayingCard",
+              "props": {
+                "card": {
+                  "id": "B2",
+                  "suit": "none",
+                  "color": "none",
+                  "value": 0
+                },
+                "size": "small"
+              }
+            }
+          ]
+        },
+        {
+          "node": {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": [
+                {
+                  "type": "PlayingCard",
+                  "props": {
+                    "card": {
+                      "id": "C2"
+                    },
+                    "size": "small",
+                    "caption": true,
+                    "captionPosition": "bottom"
+                  },
+                  "_store": {}
+                },
+                {
+                  "type": "br",
+                  "props": {},
+                  "_store": {}
+                },
+                {
+                  "type": "span",
+                  "props": {
+                    "className": "card-definition",
+                    "children": "2C"
+                  },
+                  "_store": {}
+                }
+              ]
+            },
+            "key": "back",
+            "rendered": [
+              {
+                "nodeType": "function",
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "C2"
+                  },
+                  "size": "small",
+                  "caption": true,
+                  "captionPosition": "bottom"
+                }
+              },
+              {
+                "nodeType": "host",
+                "type": "br",
+                "props": {}
+              },
+              {
+                "nodeType": "host",
+                "type": "span",
+                "props": {
+                  "className": "card-definition",
+                  "children": "2C"
+                },
+                "rendered": "2C"
+              }
+            ]
+          },
+          "type": "div",
+          "props": {
+            "className": "card",
+            "key": "back"
+          },
+          "children": [
+            {
+              "node": {
+                "nodeType": "function",
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "C2"
+                  },
+                  "size": "small",
+                  "caption": true,
+                  "captionPosition": "bottom"
+                }
+              },
+              "type": "PlayingCard",
+              "props": {
+                "card": {
+                  "id": "C2"
+                },
+                "size": "small",
+                "caption": true,
+                "captionPosition": "bottom"
+              }
+            },
+            {
+              "node": {
+                "nodeType": "host",
+                "type": "br",
+                "props": {}
+              },
+              "type": "br",
+              "props": {}
+            },
+            {
+              "node": {
+                "nodeType": "host",
+                "type": "span",
+                "props": {
+                  "className": "card-definition",
+                  "children": "2C"
+                },
+                "rendered": "2C"
+              },
+              "type": "span",
+              "props": {
+                "className": "card-definition"
+              },
+              "children": [
+                "2C"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": {
+        "nodeType": "class",
+        "type": "t",
+        "props": {
+          "isFlipped": false,
+          "flipDirection": "horizontal",
+          "children": [
+            {
+              "type": "div",
+              "key": "front",
+              "props": {
+                "className": "card",
+                "children": {
+                  "type": "PlayingCard",
+                  "props": {
+                    "card": {
+                      "id": "B2",
+                      "suit": "none",
+                      "color": "none",
+                      "value": 0
+                    },
+                    "size": "small"
+                  },
+                  "_store": {}
+                }
+              },
+              "_store": {}
+            },
+            {
+              "type": "div",
+              "key": "back",
+              "props": {
+                "className": "card",
+                "children": [
+                  {
+                    "type": "PlayingCard",
+                    "props": {
+                      "card": {
+                        "id": "D11"
+                      },
+                      "size": "small",
+                      "caption": true,
+                      "captionPosition": "bottom"
+                    },
+                    "_store": {}
+                  },
+                  {
+                    "type": "br",
+                    "props": {},
+                    "_store": {}
+                  },
+                  {
+                    "type": "span",
+                    "props": {
+                      "className": "card-definition",
+                      "children": "JD"
+                    },
+                    "_store": {}
+                  }
+                ]
+              },
+              "_store": {}
+            }
+          ],
+          "containerStyle": {},
+          "cardStyles": {
+            "front": {},
+            "back": {}
+          },
+          "cardZIndex": "auto",
+          "flipSpeedBackToFront": 0.6,
+          "flipSpeedFrontToBack": 0.6,
+          "infinite": false
+        },
+        "key": "3",
+        "rendered": [
+          {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": {
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "B2",
+                    "suit": "none",
+                    "color": "none",
+                    "value": 0
+                  },
+                  "size": "small"
+                },
+                "_store": {}
+              }
+            },
+            "key": "front",
+            "rendered": {
+              "nodeType": "function",
+              "type": "PlayingCard",
+              "props": {
+                "card": {
+                  "id": "B2",
+                  "suit": "none",
+                  "color": "none",
+                  "value": 0
+                },
+                "size": "small"
+              }
+            }
+          },
+          {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": [
+                {
+                  "type": "PlayingCard",
+                  "props": {
+                    "card": {
+                      "id": "D11"
+                    },
+                    "size": "small",
+                    "caption": true,
+                    "captionPosition": "bottom"
+                  },
+                  "_store": {}
+                },
+                {
+                  "type": "br",
+                  "props": {},
+                  "_store": {}
+                },
+                {
+                  "type": "span",
+                  "props": {
+                    "className": "card-definition",
+                    "children": "JD"
+                  },
+                  "_store": {}
+                }
+              ]
+            },
+            "key": "back",
+            "rendered": [
+              {
+                "nodeType": "function",
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "D11"
+                  },
+                  "size": "small",
+                  "caption": true,
+                  "captionPosition": "bottom"
+                }
+              },
+              {
+                "nodeType": "host",
+                "type": "br",
+                "props": {}
+              },
+              {
+                "nodeType": "host",
+                "type": "span",
+                "props": {
+                  "className": "card-definition",
+                  "children": "JD"
+                },
+                "rendered": "JD"
+              }
+            ]
+          }
+        ]
+      },
+      "type": "t",
+      "props": {
+        "isFlipped": false,
+        "flipDirection": "horizontal",
+        "containerStyle": {},
+        "cardStyles": {
+          "front": {},
+          "back": {}
+        },
+        "cardZIndex": "auto",
+        "flipSpeedBackToFront": 0.6,
+        "flipSpeedFrontToBack": 0.6,
+        "infinite": false,
+        "key": "3"
+      },
+      "children": [
+        {
+          "node": {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": {
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "B2",
+                    "suit": "none",
+                    "color": "none",
+                    "value": 0
+                  },
+                  "size": "small"
+                },
+                "_store": {}
+              }
+            },
+            "key": "front",
+            "rendered": {
+              "nodeType": "function",
+              "type": "PlayingCard",
+              "props": {
+                "card": {
+                  "id": "B2",
+                  "suit": "none",
+                  "color": "none",
+                  "value": 0
+                },
+                "size": "small"
+              }
+            }
+          },
+          "type": "div",
+          "props": {
+            "className": "card",
+            "key": "front"
+          },
+          "children": [
+            {
+              "node": {
+                "nodeType": "function",
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "B2",
+                    "suit": "none",
+                    "color": "none",
+                    "value": 0
+                  },
+                  "size": "small"
+                }
+              },
+              "type": "PlayingCard",
+              "props": {
+                "card": {
+                  "id": "B2",
+                  "suit": "none",
+                  "color": "none",
+                  "value": 0
+                },
+                "size": "small"
+              }
+            }
+          ]
+        },
+        {
+          "node": {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": [
+                {
+                  "type": "PlayingCard",
+                  "props": {
+                    "card": {
+                      "id": "D11"
+                    },
+                    "size": "small",
+                    "caption": true,
+                    "captionPosition": "bottom"
+                  },
+                  "_store": {}
+                },
+                {
+                  "type": "br",
+                  "props": {},
+                  "_store": {}
+                },
+                {
+                  "type": "span",
+                  "props": {
+                    "className": "card-definition",
+                    "children": "JD"
+                  },
+                  "_store": {}
+                }
+              ]
+            },
+            "key": "back",
+            "rendered": [
+              {
+                "nodeType": "function",
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "D11"
+                  },
+                  "size": "small",
+                  "caption": true,
+                  "captionPosition": "bottom"
+                }
+              },
+              {
+                "nodeType": "host",
+                "type": "br",
+                "props": {}
+              },
+              {
+                "nodeType": "host",
+                "type": "span",
+                "props": {
+                  "className": "card-definition",
+                  "children": "JD"
+                },
+                "rendered": "JD"
+              }
+            ]
+          },
+          "type": "div",
+          "props": {
+            "className": "card",
+            "key": "back"
+          },
+          "children": [
+            {
+              "node": {
+                "nodeType": "function",
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "D11"
+                  },
+                  "size": "small",
+                  "caption": true,
+                  "captionPosition": "bottom"
+                }
+              },
+              "type": "PlayingCard",
+              "props": {
+                "card": {
+                  "id": "D11"
+                },
+                "size": "small",
+                "caption": true,
+                "captionPosition": "bottom"
+              }
+            },
+            {
+              "node": {
+                "nodeType": "host",
+                "type": "br",
+                "props": {}
+              },
+              "type": "br",
+              "props": {}
+            },
+            {
+              "node": {
+                "nodeType": "host",
+                "type": "span",
+                "props": {
+                  "className": "card-definition",
+                  "children": "JD"
+                },
+                "rendered": "JD"
+              },
+              "type": "span",
+              "props": {
+                "className": "card-definition"
+              },
+              "children": [
+                "JD"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": {
+        "nodeType": "class",
+        "type": "t",
+        "props": {
+          "isFlipped": false,
+          "flipDirection": "horizontal",
+          "children": [
+            {
+              "type": "div",
+              "key": "front",
+              "props": {
+                "className": "card",
+                "children": {
+                  "type": "PlayingCard",
+                  "props": {
+                    "card": {
+                      "id": "B2",
+                      "suit": "none",
+                      "color": "none",
+                      "value": 0
+                    },
+                    "size": "small"
+                  },
+                  "_store": {}
+                }
+              },
+              "_store": {}
+            },
+            {
+              "type": "div",
+              "key": "back",
+              "props": {
+                "className": "card",
+                "children": [
+                  {
+                    "type": "PlayingCard",
+                    "props": {
+                      "card": {
+                        "id": "H11"
+                      },
+                      "size": "small",
+                      "caption": true,
+                      "captionPosition": "bottom"
+                    },
+                    "_store": {}
+                  },
+                  {
+                    "type": "br",
+                    "props": {},
+                    "_store": {}
+                  },
+                  {
+                    "type": "span",
+                    "props": {
+                      "className": "card-definition",
+                      "children": "11H"
+                    },
+                    "_store": {}
+                  }
+                ]
+              },
+              "_store": {}
+            }
+          ],
+          "containerStyle": {},
+          "cardStyles": {
+            "front": {},
+            "back": {}
+          },
+          "cardZIndex": "auto",
+          "flipSpeedBackToFront": 0.6,
+          "flipSpeedFrontToBack": 0.6,
+          "infinite": false
+        },
+        "key": "4",
+        "rendered": [
+          {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": {
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "B2",
+                    "suit": "none",
+                    "color": "none",
+                    "value": 0
+                  },
+                  "size": "small"
+                },
+                "_store": {}
+              }
+            },
+            "key": "front",
+            "rendered": {
+              "nodeType": "function",
+              "type": "PlayingCard",
+              "props": {
+                "card": {
+                  "id": "B2",
+                  "suit": "none",
+                  "color": "none",
+                  "value": 0
+                },
+                "size": "small"
+              }
+            }
+          },
+          {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": [
+                {
+                  "type": "PlayingCard",
+                  "props": {
+                    "card": {
+                      "id": "H11"
+                    },
+                    "size": "small",
+                    "caption": true,
+                    "captionPosition": "bottom"
+                  },
+                  "_store": {}
+                },
+                {
+                  "type": "br",
+                  "props": {},
+                  "_store": {}
+                },
+                {
+                  "type": "span",
+                  "props": {
+                    "className": "card-definition",
+                    "children": "11H"
+                  },
+                  "_store": {}
+                }
+              ]
+            },
+            "key": "back",
+            "rendered": [
+              {
+                "nodeType": "function",
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "H11"
+                  },
+                  "size": "small",
+                  "caption": true,
+                  "captionPosition": "bottom"
+                }
+              },
+              {
+                "nodeType": "host",
+                "type": "br",
+                "props": {}
+              },
+              {
+                "nodeType": "host",
+                "type": "span",
+                "props": {
+                  "className": "card-definition",
+                  "children": "11H"
+                },
+                "rendered": "11H"
+              }
+            ]
+          }
+        ]
+      },
+      "type": "t",
+      "props": {
+        "isFlipped": false,
+        "flipDirection": "horizontal",
+        "containerStyle": {},
+        "cardStyles": {
+          "front": {},
+          "back": {}
+        },
+        "cardZIndex": "auto",
+        "flipSpeedBackToFront": 0.6,
+        "flipSpeedFrontToBack": 0.6,
+        "infinite": false,
+        "key": "4"
+      },
+      "children": [
+        {
+          "node": {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": {
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "B2",
+                    "suit": "none",
+                    "color": "none",
+                    "value": 0
+                  },
+                  "size": "small"
+                },
+                "_store": {}
+              }
+            },
+            "key": "front",
+            "rendered": {
+              "nodeType": "function",
+              "type": "PlayingCard",
+              "props": {
+                "card": {
+                  "id": "B2",
+                  "suit": "none",
+                  "color": "none",
+                  "value": 0
+                },
+                "size": "small"
+              }
+            }
+          },
+          "type": "div",
+          "props": {
+            "className": "card",
+            "key": "front"
+          },
+          "children": [
+            {
+              "node": {
+                "nodeType": "function",
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "B2",
+                    "suit": "none",
+                    "color": "none",
+                    "value": 0
+                  },
+                  "size": "small"
+                }
+              },
+              "type": "PlayingCard",
+              "props": {
+                "card": {
+                  "id": "B2",
+                  "suit": "none",
+                  "color": "none",
+                  "value": 0
+                },
+                "size": "small"
+              }
+            }
+          ]
+        },
+        {
+          "node": {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": [
+                {
+                  "type": "PlayingCard",
+                  "props": {
+                    "card": {
+                      "id": "H11"
+                    },
+                    "size": "small",
+                    "caption": true,
+                    "captionPosition": "bottom"
+                  },
+                  "_store": {}
+                },
+                {
+                  "type": "br",
+                  "props": {},
+                  "_store": {}
+                },
+                {
+                  "type": "span",
+                  "props": {
+                    "className": "card-definition",
+                    "children": "11H"
+                  },
+                  "_store": {}
+                }
+              ]
+            },
+            "key": "back",
+            "rendered": [
+              {
+                "nodeType": "function",
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "H11"
+                  },
+                  "size": "small",
+                  "caption": true,
+                  "captionPosition": "bottom"
+                }
+              },
+              {
+                "nodeType": "host",
+                "type": "br",
+                "props": {}
+              },
+              {
+                "nodeType": "host",
+                "type": "span",
+                "props": {
+                  "className": "card-definition",
+                  "children": "11H"
+                },
+                "rendered": "11H"
+              }
+            ]
+          },
+          "type": "div",
+          "props": {
+            "className": "card",
+            "key": "back"
+          },
+          "children": [
+            {
+              "node": {
+                "nodeType": "function",
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "H11"
+                  },
+                  "size": "small",
+                  "caption": true,
+                  "captionPosition": "bottom"
+                }
+              },
+              "type": "PlayingCard",
+              "props": {
+                "card": {
+                  "id": "H11"
+                },
+                "size": "small",
+                "caption": true,
+                "captionPosition": "bottom"
+              }
+            },
+            {
+              "node": {
+                "nodeType": "host",
+                "type": "br",
+                "props": {}
+              },
+              "type": "br",
+              "props": {}
+            },
+            {
+              "node": {
+                "nodeType": "host",
+                "type": "span",
+                "props": {
+                  "className": "card-definition",
+                  "children": "11H"
+                },
+                "rendered": "11H"
+              },
+              "type": "span",
+              "props": {
+                "className": "card-definition"
+              },
+              "children": [
+                "11H"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": {
+        "nodeType": "class",
+        "type": "t",
+        "props": {
+          "isFlipped": false,
+          "flipDirection": "horizontal",
+          "children": [
+            {
+              "type": "div",
+              "key": "front",
+              "props": {
+                "className": "card",
+                "children": {
+                  "type": "PlayingCard",
+                  "props": {
+                    "card": {
+                      "id": "B2",
+                      "suit": "none",
+                      "color": "none",
+                      "value": 0
+                    },
+                    "size": "small"
+                  },
+                  "_store": {}
+                }
+              },
+              "_store": {}
+            },
+            {
+              "type": "div",
+              "key": "back",
+              "props": {
+                "className": "card",
+                "children": [
+                  {
+                    "type": "PlayingCard",
+                    "props": {
+                      "card": {
+                        "id": "C4"
+                      },
+                      "size": "small",
+                      "caption": true,
+                      "captionPosition": "bottom"
+                    },
+                    "_store": {}
+                  },
+                  {
+                    "type": "br",
+                    "props": {},
+                    "_store": {}
+                  },
+                  {
+                    "type": "span",
+                    "props": {
+                      "className": "card-definition",
+                      "children": "4C"
+                    },
+                    "_store": {}
+                  }
+                ]
+              },
+              "_store": {}
+            }
+          ],
+          "containerStyle": {},
+          "cardStyles": {
+            "front": {},
+            "back": {}
+          },
+          "cardZIndex": "auto",
+          "flipSpeedBackToFront": 0.6,
+          "flipSpeedFrontToBack": 0.6,
+          "infinite": false
+        },
+        "key": "5",
+        "rendered": [
+          {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": {
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "B2",
+                    "suit": "none",
+                    "color": "none",
+                    "value": 0
+                  },
+                  "size": "small"
+                },
+                "_store": {}
+              }
+            },
+            "key": "front",
+            "rendered": {
+              "nodeType": "function",
+              "type": "PlayingCard",
+              "props": {
+                "card": {
+                  "id": "B2",
+                  "suit": "none",
+                  "color": "none",
+                  "value": 0
+                },
+                "size": "small"
+              }
+            }
+          },
+          {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": [
+                {
+                  "type": "PlayingCard",
+                  "props": {
+                    "card": {
+                      "id": "C4"
+                    },
+                    "size": "small",
+                    "caption": true,
+                    "captionPosition": "bottom"
+                  },
+                  "_store": {}
+                },
+                {
+                  "type": "br",
+                  "props": {},
+                  "_store": {}
+                },
+                {
+                  "type": "span",
+                  "props": {
+                    "className": "card-definition",
+                    "children": "4C"
+                  },
+                  "_store": {}
+                }
+              ]
+            },
+            "key": "back",
+            "rendered": [
+              {
+                "nodeType": "function",
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "C4"
+                  },
+                  "size": "small",
+                  "caption": true,
+                  "captionPosition": "bottom"
+                }
+              },
+              {
+                "nodeType": "host",
+                "type": "br",
+                "props": {}
+              },
+              {
+                "nodeType": "host",
+                "type": "span",
+                "props": {
+                  "className": "card-definition",
+                  "children": "4C"
+                },
+                "rendered": "4C"
+              }
+            ]
+          }
+        ]
+      },
+      "type": "t",
+      "props": {
+        "isFlipped": false,
+        "flipDirection": "horizontal",
+        "containerStyle": {},
+        "cardStyles": {
+          "front": {},
+          "back": {}
+        },
+        "cardZIndex": "auto",
+        "flipSpeedBackToFront": 0.6,
+        "flipSpeedFrontToBack": 0.6,
+        "infinite": false,
+        "key": "5"
+      },
+      "children": [
+        {
+          "node": {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": {
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "B2",
+                    "suit": "none",
+                    "color": "none",
+                    "value": 0
+                  },
+                  "size": "small"
+                },
+                "_store": {}
+              }
+            },
+            "key": "front",
+            "rendered": {
+              "nodeType": "function",
+              "type": "PlayingCard",
+              "props": {
+                "card": {
+                  "id": "B2",
+                  "suit": "none",
+                  "color": "none",
+                  "value": 0
+                },
+                "size": "small"
+              }
+            }
+          },
+          "type": "div",
+          "props": {
+            "className": "card",
+            "key": "front"
+          },
+          "children": [
+            {
+              "node": {
+                "nodeType": "function",
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "B2",
+                    "suit": "none",
+                    "color": "none",
+                    "value": 0
+                  },
+                  "size": "small"
+                }
+              },
+              "type": "PlayingCard",
+              "props": {
+                "card": {
+                  "id": "B2",
+                  "suit": "none",
+                  "color": "none",
+                  "value": 0
+                },
+                "size": "small"
+              }
+            }
+          ]
+        },
+        {
+          "node": {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": [
+                {
+                  "type": "PlayingCard",
+                  "props": {
+                    "card": {
+                      "id": "C4"
+                    },
+                    "size": "small",
+                    "caption": true,
+                    "captionPosition": "bottom"
+                  },
+                  "_store": {}
+                },
+                {
+                  "type": "br",
+                  "props": {},
+                  "_store": {}
+                },
+                {
+                  "type": "span",
+                  "props": {
+                    "className": "card-definition",
+                    "children": "4C"
+                  },
+                  "_store": {}
+                }
+              ]
+            },
+            "key": "back",
+            "rendered": [
+              {
+                "nodeType": "function",
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "C4"
+                  },
+                  "size": "small",
+                  "caption": true,
+                  "captionPosition": "bottom"
+                }
+              },
+              {
+                "nodeType": "host",
+                "type": "br",
+                "props": {}
+              },
+              {
+                "nodeType": "host",
+                "type": "span",
+                "props": {
+                  "className": "card-definition",
+                  "children": "4C"
+                },
+                "rendered": "4C"
+              }
+            ]
+          },
+          "type": "div",
+          "props": {
+            "className": "card",
+            "key": "back"
+          },
+          "children": [
+            {
+              "node": {
+                "nodeType": "function",
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "C4"
+                  },
+                  "size": "small",
+                  "caption": true,
+                  "captionPosition": "bottom"
+                }
+              },
+              "type": "PlayingCard",
+              "props": {
+                "card": {
+                  "id": "C4"
+                },
+                "size": "small",
+                "caption": true,
+                "captionPosition": "bottom"
+              }
+            },
+            {
+              "node": {
+                "nodeType": "host",
+                "type": "br",
+                "props": {}
+              },
+              "type": "br",
+              "props": {}
+            },
+            {
+              "node": {
+                "nodeType": "host",
+                "type": "span",
+                "props": {
+                  "className": "card-definition",
+                  "children": "4C"
+                },
+                "rendered": "4C"
+              },
+              "type": "span",
+              "props": {
+                "className": "card-definition"
+              },
+              "children": [
+                "4C"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": {
+        "nodeType": "host",
+        "type": "br",
+        "props": {}
+      },
+      "type": "br",
+      "props": {}
+    },
+    {
+      "node": {
+        "nodeType": "host",
+        "type": "span",
+        "props": {
+          "className": "poker-hand",
+          "children": "1 pair"
+        },
+        "rendered": "1 pair"
+      },
+      "type": "span",
+      "props": {
+        "className": "poker-hand"
+      },
+      "children": [
+        "1 pair"
+      ]
+    }
+  ]
+};
+
+exports["Hand.jsx view/Renders front of cards(0)"] = {
+  "node": {
+    "nodeType": "host",
+    "type": "div",
+    "props": {
+      "className": "hand",
+      "children": [
+        [
+          {
+            "type": "t",
+            "key": "1",
+            "props": {
+              "isFlipped": true,
+              "flipDirection": "horizontal",
+              "children": [
+                {
+                  "type": "div",
+                  "key": "front",
+                  "props": {
+                    "className": "card",
+                    "children": {
+                      "type": "PlayingCard",
+                      "props": {
+                        "card": {
+                          "id": "B2",
+                          "suit": "none",
+                          "color": "none",
+                          "value": 0
+                        },
+                        "size": "small"
+                      },
+                      "_store": {}
+                    }
+                  },
+                  "_store": {}
+                },
+                {
+                  "type": "div",
+                  "key": "back",
+                  "props": {
+                    "className": "card",
+                    "children": [
+                      {
+                        "type": "PlayingCard",
+                        "props": {
+                          "card": {
+                            "id": "H11"
+                          },
+                          "size": "small",
+                          "caption": true,
+                          "captionPosition": "bottom"
+                        },
+                        "_store": {}
+                      },
+                      {
+                        "type": "br",
+                        "props": {},
+                        "_store": {}
+                      },
+                      {
+                        "type": "span",
+                        "props": {
+                          "className": "card-definition",
+                          "children": "JH"
+                        },
+                        "_store": {}
+                      }
+                    ]
+                  },
+                  "_store": {}
+                }
+              ],
+              "containerStyle": {},
+              "cardStyles": {
+                "front": {},
+                "back": {}
+              },
+              "cardZIndex": "auto",
+              "flipSpeedBackToFront": 0.6,
+              "flipSpeedFrontToBack": 0.6,
+              "infinite": false
+            },
+            "_store": {}
+          },
+          {
+            "type": "t",
+            "key": "2",
+            "props": {
+              "isFlipped": true,
+              "flipDirection": "horizontal",
+              "children": [
+                {
+                  "type": "div",
+                  "key": "front",
+                  "props": {
+                    "className": "card",
+                    "children": {
+                      "type": "PlayingCard",
+                      "props": {
+                        "card": {
+                          "id": "B2",
+                          "suit": "none",
+                          "color": "none",
+                          "value": 0
+                        },
+                        "size": "small"
+                      },
+                      "_store": {}
+                    }
+                  },
+                  "_store": {}
+                },
+                {
+                  "type": "div",
+                  "key": "back",
+                  "props": {
+                    "className": "card",
+                    "children": [
+                      {
+                        "type": "PlayingCard",
+                        "props": {
+                          "card": {
+                            "id": "C2"
+                          },
+                          "size": "small",
+                          "caption": true,
+                          "captionPosition": "bottom"
+                        },
+                        "_store": {}
+                      },
+                      {
+                        "type": "br",
+                        "props": {},
+                        "_store": {}
+                      },
+                      {
+                        "type": "span",
+                        "props": {
+                          "className": "card-definition",
+                          "children": "2C"
+                        },
+                        "_store": {}
+                      }
+                    ]
+                  },
+                  "_store": {}
+                }
+              ],
+              "containerStyle": {},
+              "cardStyles": {
+                "front": {},
+                "back": {}
+              },
+              "cardZIndex": "auto",
+              "flipSpeedBackToFront": 0.6,
+              "flipSpeedFrontToBack": 0.6,
+              "infinite": false
+            },
+            "_store": {}
+          },
+          {
+            "type": "t",
+            "key": "3",
+            "props": {
+              "isFlipped": true,
+              "flipDirection": "horizontal",
+              "children": [
+                {
+                  "type": "div",
+                  "key": "front",
+                  "props": {
+                    "className": "card",
+                    "children": {
+                      "type": "PlayingCard",
+                      "props": {
+                        "card": {
+                          "id": "B2",
+                          "suit": "none",
+                          "color": "none",
+                          "value": 0
+                        },
+                        "size": "small"
+                      },
+                      "_store": {}
+                    }
+                  },
+                  "_store": {}
+                },
+                {
+                  "type": "div",
+                  "key": "back",
+                  "props": {
+                    "className": "card",
+                    "children": [
+                      {
+                        "type": "PlayingCard",
+                        "props": {
+                          "card": {
+                            "id": "D11"
+                          },
+                          "size": "small",
+                          "caption": true,
+                          "captionPosition": "bottom"
+                        },
+                        "_store": {}
+                      },
+                      {
+                        "type": "br",
+                        "props": {},
+                        "_store": {}
+                      },
+                      {
+                        "type": "span",
+                        "props": {
+                          "className": "card-definition",
+                          "children": "JD"
+                        },
+                        "_store": {}
+                      }
+                    ]
+                  },
+                  "_store": {}
+                }
+              ],
+              "containerStyle": {},
+              "cardStyles": {
+                "front": {},
+                "back": {}
+              },
+              "cardZIndex": "auto",
+              "flipSpeedBackToFront": 0.6,
+              "flipSpeedFrontToBack": 0.6,
+              "infinite": false
+            },
+            "_store": {}
+          },
+          {
+            "type": "t",
+            "key": "4",
+            "props": {
+              "isFlipped": true,
+              "flipDirection": "horizontal",
+              "children": [
+                {
+                  "type": "div",
+                  "key": "front",
+                  "props": {
+                    "className": "card",
+                    "children": {
+                      "type": "PlayingCard",
+                      "props": {
+                        "card": {
+                          "id": "B2",
+                          "suit": "none",
+                          "color": "none",
+                          "value": 0
+                        },
+                        "size": "small"
+                      },
+                      "_store": {}
+                    }
+                  },
+                  "_store": {}
+                },
+                {
+                  "type": "div",
+                  "key": "back",
+                  "props": {
+                    "className": "card",
+                    "children": [
+                      {
+                        "type": "PlayingCard",
+                        "props": {
+                          "card": {
+                            "id": "H11"
+                          },
+                          "size": "small",
+                          "caption": true,
+                          "captionPosition": "bottom"
+                        },
+                        "_store": {}
+                      },
+                      {
+                        "type": "br",
+                        "props": {},
+                        "_store": {}
+                      },
+                      {
+                        "type": "span",
+                        "props": {
+                          "className": "card-definition",
+                          "children": "11H"
+                        },
+                        "_store": {}
+                      }
+                    ]
+                  },
+                  "_store": {}
+                }
+              ],
+              "containerStyle": {},
+              "cardStyles": {
+                "front": {},
+                "back": {}
+              },
+              "cardZIndex": "auto",
+              "flipSpeedBackToFront": 0.6,
+              "flipSpeedFrontToBack": 0.6,
+              "infinite": false
+            },
+            "_store": {}
+          },
+          {
+            "type": "t",
+            "key": "5",
+            "props": {
+              "isFlipped": true,
+              "flipDirection": "horizontal",
+              "children": [
+                {
+                  "type": "div",
+                  "key": "front",
+                  "props": {
+                    "className": "card",
+                    "children": {
+                      "type": "PlayingCard",
+                      "props": {
+                        "card": {
+                          "id": "B2",
+                          "suit": "none",
+                          "color": "none",
+                          "value": 0
+                        },
+                        "size": "small"
+                      },
+                      "_store": {}
+                    }
+                  },
+                  "_store": {}
+                },
+                {
+                  "type": "div",
+                  "key": "back",
+                  "props": {
+                    "className": "card",
+                    "children": [
+                      {
+                        "type": "PlayingCard",
+                        "props": {
+                          "card": {
+                            "id": "C4"
+                          },
+                          "size": "small",
+                          "caption": true,
+                          "captionPosition": "bottom"
+                        },
+                        "_store": {}
+                      },
+                      {
+                        "type": "br",
+                        "props": {},
+                        "_store": {}
+                      },
+                      {
+                        "type": "span",
+                        "props": {
+                          "className": "card-definition",
+                          "children": "4C"
+                        },
+                        "_store": {}
+                      }
+                    ]
+                  },
+                  "_store": {}
+                }
+              ],
+              "containerStyle": {},
+              "cardStyles": {
+                "front": {},
+                "back": {}
+              },
+              "cardZIndex": "auto",
+              "flipSpeedBackToFront": 0.6,
+              "flipSpeedFrontToBack": 0.6,
+              "infinite": false
+            },
+            "_store": {}
+          }
+        ],
+        {
+          "type": "br",
+          "props": {},
+          "_store": {}
+        },
+        {
+          "type": "span",
+          "props": {
+            "className": "poker-hand",
+            "children": "1 pair"
+          },
+          "_store": {}
+        }
+      ]
+    },
+    "rendered": [
+      {
+        "nodeType": "class",
+        "type": "t",
+        "props": {
+          "isFlipped": true,
+          "flipDirection": "horizontal",
+          "children": [
+            {
+              "type": "div",
+              "key": "front",
+              "props": {
+                "className": "card",
+                "children": {
+                  "type": "PlayingCard",
+                  "props": {
+                    "card": {
+                      "id": "B2",
+                      "suit": "none",
+                      "color": "none",
+                      "value": 0
+                    },
+                    "size": "small"
+                  },
+                  "_store": {}
+                }
+              },
+              "_store": {}
+            },
+            {
+              "type": "div",
+              "key": "back",
+              "props": {
+                "className": "card",
+                "children": [
+                  {
+                    "type": "PlayingCard",
+                    "props": {
+                      "card": {
+                        "id": "H11"
+                      },
+                      "size": "small",
+                      "caption": true,
+                      "captionPosition": "bottom"
+                    },
+                    "_store": {}
+                  },
+                  {
+                    "type": "br",
+                    "props": {},
+                    "_store": {}
+                  },
+                  {
+                    "type": "span",
+                    "props": {
+                      "className": "card-definition",
+                      "children": "JH"
+                    },
+                    "_store": {}
+                  }
+                ]
+              },
+              "_store": {}
+            }
+          ],
+          "containerStyle": {},
+          "cardStyles": {
+            "front": {},
+            "back": {}
+          },
+          "cardZIndex": "auto",
+          "flipSpeedBackToFront": 0.6,
+          "flipSpeedFrontToBack": 0.6,
+          "infinite": false
+        },
+        "key": "1",
+        "rendered": [
+          {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": {
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "B2",
+                    "suit": "none",
+                    "color": "none",
+                    "value": 0
+                  },
+                  "size": "small"
+                },
+                "_store": {}
+              }
+            },
+            "key": "front",
+            "rendered": {
+              "nodeType": "function",
+              "type": "PlayingCard",
+              "props": {
+                "card": {
+                  "id": "B2",
+                  "suit": "none",
+                  "color": "none",
+                  "value": 0
+                },
+                "size": "small"
+              }
+            }
+          },
+          {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": [
+                {
+                  "type": "PlayingCard",
+                  "props": {
+                    "card": {
+                      "id": "H11"
+                    },
+                    "size": "small",
+                    "caption": true,
+                    "captionPosition": "bottom"
+                  },
+                  "_store": {}
+                },
+                {
+                  "type": "br",
+                  "props": {},
+                  "_store": {}
+                },
+                {
+                  "type": "span",
+                  "props": {
+                    "className": "card-definition",
+                    "children": "JH"
+                  },
+                  "_store": {}
+                }
+              ]
+            },
+            "key": "back",
+            "rendered": [
+              {
+                "nodeType": "function",
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "H11"
+                  },
+                  "size": "small",
+                  "caption": true,
+                  "captionPosition": "bottom"
+                }
+              },
+              {
+                "nodeType": "host",
+                "type": "br",
+                "props": {}
+              },
+              {
+                "nodeType": "host",
+                "type": "span",
+                "props": {
+                  "className": "card-definition",
+                  "children": "JH"
+                },
+                "rendered": "JH"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nodeType": "class",
+        "type": "t",
+        "props": {
+          "isFlipped": true,
+          "flipDirection": "horizontal",
+          "children": [
+            {
+              "type": "div",
+              "key": "front",
+              "props": {
+                "className": "card",
+                "children": {
+                  "type": "PlayingCard",
+                  "props": {
+                    "card": {
+                      "id": "B2",
+                      "suit": "none",
+                      "color": "none",
+                      "value": 0
+                    },
+                    "size": "small"
+                  },
+                  "_store": {}
+                }
+              },
+              "_store": {}
+            },
+            {
+              "type": "div",
+              "key": "back",
+              "props": {
+                "className": "card",
+                "children": [
+                  {
+                    "type": "PlayingCard",
+                    "props": {
+                      "card": {
+                        "id": "C2"
+                      },
+                      "size": "small",
+                      "caption": true,
+                      "captionPosition": "bottom"
+                    },
+                    "_store": {}
+                  },
+                  {
+                    "type": "br",
+                    "props": {},
+                    "_store": {}
+                  },
+                  {
+                    "type": "span",
+                    "props": {
+                      "className": "card-definition",
+                      "children": "2C"
+                    },
+                    "_store": {}
+                  }
+                ]
+              },
+              "_store": {}
+            }
+          ],
+          "containerStyle": {},
+          "cardStyles": {
+            "front": {},
+            "back": {}
+          },
+          "cardZIndex": "auto",
+          "flipSpeedBackToFront": 0.6,
+          "flipSpeedFrontToBack": 0.6,
+          "infinite": false
+        },
+        "key": "2",
+        "rendered": [
+          {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": {
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "B2",
+                    "suit": "none",
+                    "color": "none",
+                    "value": 0
+                  },
+                  "size": "small"
+                },
+                "_store": {}
+              }
+            },
+            "key": "front",
+            "rendered": {
+              "nodeType": "function",
+              "type": "PlayingCard",
+              "props": {
+                "card": {
+                  "id": "B2",
+                  "suit": "none",
+                  "color": "none",
+                  "value": 0
+                },
+                "size": "small"
+              }
+            }
+          },
+          {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": [
+                {
+                  "type": "PlayingCard",
+                  "props": {
+                    "card": {
+                      "id": "C2"
+                    },
+                    "size": "small",
+                    "caption": true,
+                    "captionPosition": "bottom"
+                  },
+                  "_store": {}
+                },
+                {
+                  "type": "br",
+                  "props": {},
+                  "_store": {}
+                },
+                {
+                  "type": "span",
+                  "props": {
+                    "className": "card-definition",
+                    "children": "2C"
+                  },
+                  "_store": {}
+                }
+              ]
+            },
+            "key": "back",
+            "rendered": [
+              {
+                "nodeType": "function",
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "C2"
+                  },
+                  "size": "small",
+                  "caption": true,
+                  "captionPosition": "bottom"
+                }
+              },
+              {
+                "nodeType": "host",
+                "type": "br",
+                "props": {}
+              },
+              {
+                "nodeType": "host",
+                "type": "span",
+                "props": {
+                  "className": "card-definition",
+                  "children": "2C"
+                },
+                "rendered": "2C"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nodeType": "class",
+        "type": "t",
+        "props": {
+          "isFlipped": true,
+          "flipDirection": "horizontal",
+          "children": [
+            {
+              "type": "div",
+              "key": "front",
+              "props": {
+                "className": "card",
+                "children": {
+                  "type": "PlayingCard",
+                  "props": {
+                    "card": {
+                      "id": "B2",
+                      "suit": "none",
+                      "color": "none",
+                      "value": 0
+                    },
+                    "size": "small"
+                  },
+                  "_store": {}
+                }
+              },
+              "_store": {}
+            },
+            {
+              "type": "div",
+              "key": "back",
+              "props": {
+                "className": "card",
+                "children": [
+                  {
+                    "type": "PlayingCard",
+                    "props": {
+                      "card": {
+                        "id": "D11"
+                      },
+                      "size": "small",
+                      "caption": true,
+                      "captionPosition": "bottom"
+                    },
+                    "_store": {}
+                  },
+                  {
+                    "type": "br",
+                    "props": {},
+                    "_store": {}
+                  },
+                  {
+                    "type": "span",
+                    "props": {
+                      "className": "card-definition",
+                      "children": "JD"
+                    },
+                    "_store": {}
+                  }
+                ]
+              },
+              "_store": {}
+            }
+          ],
+          "containerStyle": {},
+          "cardStyles": {
+            "front": {},
+            "back": {}
+          },
+          "cardZIndex": "auto",
+          "flipSpeedBackToFront": 0.6,
+          "flipSpeedFrontToBack": 0.6,
+          "infinite": false
+        },
+        "key": "3",
+        "rendered": [
+          {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": {
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "B2",
+                    "suit": "none",
+                    "color": "none",
+                    "value": 0
+                  },
+                  "size": "small"
+                },
+                "_store": {}
+              }
+            },
+            "key": "front",
+            "rendered": {
+              "nodeType": "function",
+              "type": "PlayingCard",
+              "props": {
+                "card": {
+                  "id": "B2",
+                  "suit": "none",
+                  "color": "none",
+                  "value": 0
+                },
+                "size": "small"
+              }
+            }
+          },
+          {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": [
+                {
+                  "type": "PlayingCard",
+                  "props": {
+                    "card": {
+                      "id": "D11"
+                    },
+                    "size": "small",
+                    "caption": true,
+                    "captionPosition": "bottom"
+                  },
+                  "_store": {}
+                },
+                {
+                  "type": "br",
+                  "props": {},
+                  "_store": {}
+                },
+                {
+                  "type": "span",
+                  "props": {
+                    "className": "card-definition",
+                    "children": "JD"
+                  },
+                  "_store": {}
+                }
+              ]
+            },
+            "key": "back",
+            "rendered": [
+              {
+                "nodeType": "function",
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "D11"
+                  },
+                  "size": "small",
+                  "caption": true,
+                  "captionPosition": "bottom"
+                }
+              },
+              {
+                "nodeType": "host",
+                "type": "br",
+                "props": {}
+              },
+              {
+                "nodeType": "host",
+                "type": "span",
+                "props": {
+                  "className": "card-definition",
+                  "children": "JD"
+                },
+                "rendered": "JD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nodeType": "class",
+        "type": "t",
+        "props": {
+          "isFlipped": true,
+          "flipDirection": "horizontal",
+          "children": [
+            {
+              "type": "div",
+              "key": "front",
+              "props": {
+                "className": "card",
+                "children": {
+                  "type": "PlayingCard",
+                  "props": {
+                    "card": {
+                      "id": "B2",
+                      "suit": "none",
+                      "color": "none",
+                      "value": 0
+                    },
+                    "size": "small"
+                  },
+                  "_store": {}
+                }
+              },
+              "_store": {}
+            },
+            {
+              "type": "div",
+              "key": "back",
+              "props": {
+                "className": "card",
+                "children": [
+                  {
+                    "type": "PlayingCard",
+                    "props": {
+                      "card": {
+                        "id": "H11"
+                      },
+                      "size": "small",
+                      "caption": true,
+                      "captionPosition": "bottom"
+                    },
+                    "_store": {}
+                  },
+                  {
+                    "type": "br",
+                    "props": {},
+                    "_store": {}
+                  },
+                  {
+                    "type": "span",
+                    "props": {
+                      "className": "card-definition",
+                      "children": "11H"
+                    },
+                    "_store": {}
+                  }
+                ]
+              },
+              "_store": {}
+            }
+          ],
+          "containerStyle": {},
+          "cardStyles": {
+            "front": {},
+            "back": {}
+          },
+          "cardZIndex": "auto",
+          "flipSpeedBackToFront": 0.6,
+          "flipSpeedFrontToBack": 0.6,
+          "infinite": false
+        },
+        "key": "4",
+        "rendered": [
+          {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": {
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "B2",
+                    "suit": "none",
+                    "color": "none",
+                    "value": 0
+                  },
+                  "size": "small"
+                },
+                "_store": {}
+              }
+            },
+            "key": "front",
+            "rendered": {
+              "nodeType": "function",
+              "type": "PlayingCard",
+              "props": {
+                "card": {
+                  "id": "B2",
+                  "suit": "none",
+                  "color": "none",
+                  "value": 0
+                },
+                "size": "small"
+              }
+            }
+          },
+          {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": [
+                {
+                  "type": "PlayingCard",
+                  "props": {
+                    "card": {
+                      "id": "H11"
+                    },
+                    "size": "small",
+                    "caption": true,
+                    "captionPosition": "bottom"
+                  },
+                  "_store": {}
+                },
+                {
+                  "type": "br",
+                  "props": {},
+                  "_store": {}
+                },
+                {
+                  "type": "span",
+                  "props": {
+                    "className": "card-definition",
+                    "children": "11H"
+                  },
+                  "_store": {}
+                }
+              ]
+            },
+            "key": "back",
+            "rendered": [
+              {
+                "nodeType": "function",
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "H11"
+                  },
+                  "size": "small",
+                  "caption": true,
+                  "captionPosition": "bottom"
+                }
+              },
+              {
+                "nodeType": "host",
+                "type": "br",
+                "props": {}
+              },
+              {
+                "nodeType": "host",
+                "type": "span",
+                "props": {
+                  "className": "card-definition",
+                  "children": "11H"
+                },
+                "rendered": "11H"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nodeType": "class",
+        "type": "t",
+        "props": {
+          "isFlipped": true,
+          "flipDirection": "horizontal",
+          "children": [
+            {
+              "type": "div",
+              "key": "front",
+              "props": {
+                "className": "card",
+                "children": {
+                  "type": "PlayingCard",
+                  "props": {
+                    "card": {
+                      "id": "B2",
+                      "suit": "none",
+                      "color": "none",
+                      "value": 0
+                    },
+                    "size": "small"
+                  },
+                  "_store": {}
+                }
+              },
+              "_store": {}
+            },
+            {
+              "type": "div",
+              "key": "back",
+              "props": {
+                "className": "card",
+                "children": [
+                  {
+                    "type": "PlayingCard",
+                    "props": {
+                      "card": {
+                        "id": "C4"
+                      },
+                      "size": "small",
+                      "caption": true,
+                      "captionPosition": "bottom"
+                    },
+                    "_store": {}
+                  },
+                  {
+                    "type": "br",
+                    "props": {},
+                    "_store": {}
+                  },
+                  {
+                    "type": "span",
+                    "props": {
+                      "className": "card-definition",
+                      "children": "4C"
+                    },
+                    "_store": {}
+                  }
+                ]
+              },
+              "_store": {}
+            }
+          ],
+          "containerStyle": {},
+          "cardStyles": {
+            "front": {},
+            "back": {}
+          },
+          "cardZIndex": "auto",
+          "flipSpeedBackToFront": 0.6,
+          "flipSpeedFrontToBack": 0.6,
+          "infinite": false
+        },
+        "key": "5",
+        "rendered": [
+          {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": {
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "B2",
+                    "suit": "none",
+                    "color": "none",
+                    "value": 0
+                  },
+                  "size": "small"
+                },
+                "_store": {}
+              }
+            },
+            "key": "front",
+            "rendered": {
+              "nodeType": "function",
+              "type": "PlayingCard",
+              "props": {
+                "card": {
+                  "id": "B2",
+                  "suit": "none",
+                  "color": "none",
+                  "value": 0
+                },
+                "size": "small"
+              }
+            }
+          },
+          {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": [
+                {
+                  "type": "PlayingCard",
+                  "props": {
+                    "card": {
+                      "id": "C4"
+                    },
+                    "size": "small",
+                    "caption": true,
+                    "captionPosition": "bottom"
+                  },
+                  "_store": {}
+                },
+                {
+                  "type": "br",
+                  "props": {},
+                  "_store": {}
+                },
+                {
+                  "type": "span",
+                  "props": {
+                    "className": "card-definition",
+                    "children": "4C"
+                  },
+                  "_store": {}
+                }
+              ]
+            },
+            "key": "back",
+            "rendered": [
+              {
+                "nodeType": "function",
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "C4"
+                  },
+                  "size": "small",
+                  "caption": true,
+                  "captionPosition": "bottom"
+                }
+              },
+              {
+                "nodeType": "host",
+                "type": "br",
+                "props": {}
+              },
+              {
+                "nodeType": "host",
+                "type": "span",
+                "props": {
+                  "className": "card-definition",
+                  "children": "4C"
+                },
+                "rendered": "4C"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nodeType": "host",
+        "type": "br",
+        "props": {}
+      },
+      {
+        "nodeType": "host",
+        "type": "span",
+        "props": {
+          "className": "poker-hand",
+          "children": "1 pair"
+        },
+        "rendered": "1 pair"
+      }
+    ]
+  },
+  "type": "div",
+  "props": {
+    "className": "hand"
+  },
+  "children": [
+    {
+      "node": {
+        "nodeType": "class",
+        "type": "t",
+        "props": {
+          "isFlipped": true,
+          "flipDirection": "horizontal",
+          "children": [
+            {
+              "type": "div",
+              "key": "front",
+              "props": {
+                "className": "card",
+                "children": {
+                  "type": "PlayingCard",
+                  "props": {
+                    "card": {
+                      "id": "B2",
+                      "suit": "none",
+                      "color": "none",
+                      "value": 0
+                    },
+                    "size": "small"
+                  },
+                  "_store": {}
+                }
+              },
+              "_store": {}
+            },
+            {
+              "type": "div",
+              "key": "back",
+              "props": {
+                "className": "card",
+                "children": [
+                  {
+                    "type": "PlayingCard",
+                    "props": {
+                      "card": {
+                        "id": "H11"
+                      },
+                      "size": "small",
+                      "caption": true,
+                      "captionPosition": "bottom"
+                    },
+                    "_store": {}
+                  },
+                  {
+                    "type": "br",
+                    "props": {},
+                    "_store": {}
+                  },
+                  {
+                    "type": "span",
+                    "props": {
+                      "className": "card-definition",
+                      "children": "JH"
+                    },
+                    "_store": {}
+                  }
+                ]
+              },
+              "_store": {}
+            }
+          ],
+          "containerStyle": {},
+          "cardStyles": {
+            "front": {},
+            "back": {}
+          },
+          "cardZIndex": "auto",
+          "flipSpeedBackToFront": 0.6,
+          "flipSpeedFrontToBack": 0.6,
+          "infinite": false
+        },
+        "key": "1",
+        "rendered": [
+          {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": {
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "B2",
+                    "suit": "none",
+                    "color": "none",
+                    "value": 0
+                  },
+                  "size": "small"
+                },
+                "_store": {}
+              }
+            },
+            "key": "front",
+            "rendered": {
+              "nodeType": "function",
+              "type": "PlayingCard",
+              "props": {
+                "card": {
+                  "id": "B2",
+                  "suit": "none",
+                  "color": "none",
+                  "value": 0
+                },
+                "size": "small"
+              }
+            }
+          },
+          {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": [
+                {
+                  "type": "PlayingCard",
+                  "props": {
+                    "card": {
+                      "id": "H11"
+                    },
+                    "size": "small",
+                    "caption": true,
+                    "captionPosition": "bottom"
+                  },
+                  "_store": {}
+                },
+                {
+                  "type": "br",
+                  "props": {},
+                  "_store": {}
+                },
+                {
+                  "type": "span",
+                  "props": {
+                    "className": "card-definition",
+                    "children": "JH"
+                  },
+                  "_store": {}
+                }
+              ]
+            },
+            "key": "back",
+            "rendered": [
+              {
+                "nodeType": "function",
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "H11"
+                  },
+                  "size": "small",
+                  "caption": true,
+                  "captionPosition": "bottom"
+                }
+              },
+              {
+                "nodeType": "host",
+                "type": "br",
+                "props": {}
+              },
+              {
+                "nodeType": "host",
+                "type": "span",
+                "props": {
+                  "className": "card-definition",
+                  "children": "JH"
+                },
+                "rendered": "JH"
+              }
+            ]
+          }
+        ]
+      },
+      "type": "t",
+      "props": {
+        "isFlipped": true,
+        "flipDirection": "horizontal",
+        "containerStyle": {},
+        "cardStyles": {
+          "front": {},
+          "back": {}
+        },
+        "cardZIndex": "auto",
+        "flipSpeedBackToFront": 0.6,
+        "flipSpeedFrontToBack": 0.6,
+        "infinite": false,
+        "key": "1"
+      },
+      "children": [
+        {
+          "node": {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": {
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "B2",
+                    "suit": "none",
+                    "color": "none",
+                    "value": 0
+                  },
+                  "size": "small"
+                },
+                "_store": {}
+              }
+            },
+            "key": "front",
+            "rendered": {
+              "nodeType": "function",
+              "type": "PlayingCard",
+              "props": {
+                "card": {
+                  "id": "B2",
+                  "suit": "none",
+                  "color": "none",
+                  "value": 0
+                },
+                "size": "small"
+              }
+            }
+          },
+          "type": "div",
+          "props": {
+            "className": "card",
+            "key": "front"
+          },
+          "children": [
+            {
+              "node": {
+                "nodeType": "function",
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "B2",
+                    "suit": "none",
+                    "color": "none",
+                    "value": 0
+                  },
+                  "size": "small"
+                }
+              },
+              "type": "PlayingCard",
+              "props": {
+                "card": {
+                  "id": "B2",
+                  "suit": "none",
+                  "color": "none",
+                  "value": 0
+                },
+                "size": "small"
+              }
+            }
+          ]
+        },
+        {
+          "node": {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": [
+                {
+                  "type": "PlayingCard",
+                  "props": {
+                    "card": {
+                      "id": "H11"
+                    },
+                    "size": "small",
+                    "caption": true,
+                    "captionPosition": "bottom"
+                  },
+                  "_store": {}
+                },
+                {
+                  "type": "br",
+                  "props": {},
+                  "_store": {}
+                },
+                {
+                  "type": "span",
+                  "props": {
+                    "className": "card-definition",
+                    "children": "JH"
+                  },
+                  "_store": {}
+                }
+              ]
+            },
+            "key": "back",
+            "rendered": [
+              {
+                "nodeType": "function",
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "H11"
+                  },
+                  "size": "small",
+                  "caption": true,
+                  "captionPosition": "bottom"
+                }
+              },
+              {
+                "nodeType": "host",
+                "type": "br",
+                "props": {}
+              },
+              {
+                "nodeType": "host",
+                "type": "span",
+                "props": {
+                  "className": "card-definition",
+                  "children": "JH"
+                },
+                "rendered": "JH"
+              }
+            ]
+          },
+          "type": "div",
+          "props": {
+            "className": "card",
+            "key": "back"
+          },
+          "children": [
+            {
+              "node": {
+                "nodeType": "function",
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "H11"
+                  },
+                  "size": "small",
+                  "caption": true,
+                  "captionPosition": "bottom"
+                }
+              },
+              "type": "PlayingCard",
+              "props": {
+                "card": {
+                  "id": "H11"
+                },
+                "size": "small",
+                "caption": true,
+                "captionPosition": "bottom"
+              }
+            },
+            {
+              "node": {
+                "nodeType": "host",
+                "type": "br",
+                "props": {}
+              },
+              "type": "br",
+              "props": {}
+            },
+            {
+              "node": {
+                "nodeType": "host",
+                "type": "span",
+                "props": {
+                  "className": "card-definition",
+                  "children": "JH"
+                },
+                "rendered": "JH"
+              },
+              "type": "span",
+              "props": {
+                "className": "card-definition"
+              },
+              "children": [
+                "JH"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": {
+        "nodeType": "class",
+        "type": "t",
+        "props": {
+          "isFlipped": true,
+          "flipDirection": "horizontal",
+          "children": [
+            {
+              "type": "div",
+              "key": "front",
+              "props": {
+                "className": "card",
+                "children": {
+                  "type": "PlayingCard",
+                  "props": {
+                    "card": {
+                      "id": "B2",
+                      "suit": "none",
+                      "color": "none",
+                      "value": 0
+                    },
+                    "size": "small"
+                  },
+                  "_store": {}
+                }
+              },
+              "_store": {}
+            },
+            {
+              "type": "div",
+              "key": "back",
+              "props": {
+                "className": "card",
+                "children": [
+                  {
+                    "type": "PlayingCard",
+                    "props": {
+                      "card": {
+                        "id": "C2"
+                      },
+                      "size": "small",
+                      "caption": true,
+                      "captionPosition": "bottom"
+                    },
+                    "_store": {}
+                  },
+                  {
+                    "type": "br",
+                    "props": {},
+                    "_store": {}
+                  },
+                  {
+                    "type": "span",
+                    "props": {
+                      "className": "card-definition",
+                      "children": "2C"
+                    },
+                    "_store": {}
+                  }
+                ]
+              },
+              "_store": {}
+            }
+          ],
+          "containerStyle": {},
+          "cardStyles": {
+            "front": {},
+            "back": {}
+          },
+          "cardZIndex": "auto",
+          "flipSpeedBackToFront": 0.6,
+          "flipSpeedFrontToBack": 0.6,
+          "infinite": false
+        },
+        "key": "2",
+        "rendered": [
+          {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": {
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "B2",
+                    "suit": "none",
+                    "color": "none",
+                    "value": 0
+                  },
+                  "size": "small"
+                },
+                "_store": {}
+              }
+            },
+            "key": "front",
+            "rendered": {
+              "nodeType": "function",
+              "type": "PlayingCard",
+              "props": {
+                "card": {
+                  "id": "B2",
+                  "suit": "none",
+                  "color": "none",
+                  "value": 0
+                },
+                "size": "small"
+              }
+            }
+          },
+          {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": [
+                {
+                  "type": "PlayingCard",
+                  "props": {
+                    "card": {
+                      "id": "C2"
+                    },
+                    "size": "small",
+                    "caption": true,
+                    "captionPosition": "bottom"
+                  },
+                  "_store": {}
+                },
+                {
+                  "type": "br",
+                  "props": {},
+                  "_store": {}
+                },
+                {
+                  "type": "span",
+                  "props": {
+                    "className": "card-definition",
+                    "children": "2C"
+                  },
+                  "_store": {}
+                }
+              ]
+            },
+            "key": "back",
+            "rendered": [
+              {
+                "nodeType": "function",
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "C2"
+                  },
+                  "size": "small",
+                  "caption": true,
+                  "captionPosition": "bottom"
+                }
+              },
+              {
+                "nodeType": "host",
+                "type": "br",
+                "props": {}
+              },
+              {
+                "nodeType": "host",
+                "type": "span",
+                "props": {
+                  "className": "card-definition",
+                  "children": "2C"
+                },
+                "rendered": "2C"
+              }
+            ]
+          }
+        ]
+      },
+      "type": "t",
+      "props": {
+        "isFlipped": true,
+        "flipDirection": "horizontal",
+        "containerStyle": {},
+        "cardStyles": {
+          "front": {},
+          "back": {}
+        },
+        "cardZIndex": "auto",
+        "flipSpeedBackToFront": 0.6,
+        "flipSpeedFrontToBack": 0.6,
+        "infinite": false,
+        "key": "2"
+      },
+      "children": [
+        {
+          "node": {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": {
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "B2",
+                    "suit": "none",
+                    "color": "none",
+                    "value": 0
+                  },
+                  "size": "small"
+                },
+                "_store": {}
+              }
+            },
+            "key": "front",
+            "rendered": {
+              "nodeType": "function",
+              "type": "PlayingCard",
+              "props": {
+                "card": {
+                  "id": "B2",
+                  "suit": "none",
+                  "color": "none",
+                  "value": 0
+                },
+                "size": "small"
+              }
+            }
+          },
+          "type": "div",
+          "props": {
+            "className": "card",
+            "key": "front"
+          },
+          "children": [
+            {
+              "node": {
+                "nodeType": "function",
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "B2",
+                    "suit": "none",
+                    "color": "none",
+                    "value": 0
+                  },
+                  "size": "small"
+                }
+              },
+              "type": "PlayingCard",
+              "props": {
+                "card": {
+                  "id": "B2",
+                  "suit": "none",
+                  "color": "none",
+                  "value": 0
+                },
+                "size": "small"
+              }
+            }
+          ]
+        },
+        {
+          "node": {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": [
+                {
+                  "type": "PlayingCard",
+                  "props": {
+                    "card": {
+                      "id": "C2"
+                    },
+                    "size": "small",
+                    "caption": true,
+                    "captionPosition": "bottom"
+                  },
+                  "_store": {}
+                },
+                {
+                  "type": "br",
+                  "props": {},
+                  "_store": {}
+                },
+                {
+                  "type": "span",
+                  "props": {
+                    "className": "card-definition",
+                    "children": "2C"
+                  },
+                  "_store": {}
+                }
+              ]
+            },
+            "key": "back",
+            "rendered": [
+              {
+                "nodeType": "function",
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "C2"
+                  },
+                  "size": "small",
+                  "caption": true,
+                  "captionPosition": "bottom"
+                }
+              },
+              {
+                "nodeType": "host",
+                "type": "br",
+                "props": {}
+              },
+              {
+                "nodeType": "host",
+                "type": "span",
+                "props": {
+                  "className": "card-definition",
+                  "children": "2C"
+                },
+                "rendered": "2C"
+              }
+            ]
+          },
+          "type": "div",
+          "props": {
+            "className": "card",
+            "key": "back"
+          },
+          "children": [
+            {
+              "node": {
+                "nodeType": "function",
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "C2"
+                  },
+                  "size": "small",
+                  "caption": true,
+                  "captionPosition": "bottom"
+                }
+              },
+              "type": "PlayingCard",
+              "props": {
+                "card": {
+                  "id": "C2"
+                },
+                "size": "small",
+                "caption": true,
+                "captionPosition": "bottom"
+              }
+            },
+            {
+              "node": {
+                "nodeType": "host",
+                "type": "br",
+                "props": {}
+              },
+              "type": "br",
+              "props": {}
+            },
+            {
+              "node": {
+                "nodeType": "host",
+                "type": "span",
+                "props": {
+                  "className": "card-definition",
+                  "children": "2C"
+                },
+                "rendered": "2C"
+              },
+              "type": "span",
+              "props": {
+                "className": "card-definition"
+              },
+              "children": [
+                "2C"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": {
+        "nodeType": "class",
+        "type": "t",
+        "props": {
+          "isFlipped": true,
+          "flipDirection": "horizontal",
+          "children": [
+            {
+              "type": "div",
+              "key": "front",
+              "props": {
+                "className": "card",
+                "children": {
+                  "type": "PlayingCard",
+                  "props": {
+                    "card": {
+                      "id": "B2",
+                      "suit": "none",
+                      "color": "none",
+                      "value": 0
+                    },
+                    "size": "small"
+                  },
+                  "_store": {}
+                }
+              },
+              "_store": {}
+            },
+            {
+              "type": "div",
+              "key": "back",
+              "props": {
+                "className": "card",
+                "children": [
+                  {
+                    "type": "PlayingCard",
+                    "props": {
+                      "card": {
+                        "id": "D11"
+                      },
+                      "size": "small",
+                      "caption": true,
+                      "captionPosition": "bottom"
+                    },
+                    "_store": {}
+                  },
+                  {
+                    "type": "br",
+                    "props": {},
+                    "_store": {}
+                  },
+                  {
+                    "type": "span",
+                    "props": {
+                      "className": "card-definition",
+                      "children": "JD"
+                    },
+                    "_store": {}
+                  }
+                ]
+              },
+              "_store": {}
+            }
+          ],
+          "containerStyle": {},
+          "cardStyles": {
+            "front": {},
+            "back": {}
+          },
+          "cardZIndex": "auto",
+          "flipSpeedBackToFront": 0.6,
+          "flipSpeedFrontToBack": 0.6,
+          "infinite": false
+        },
+        "key": "3",
+        "rendered": [
+          {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": {
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "B2",
+                    "suit": "none",
+                    "color": "none",
+                    "value": 0
+                  },
+                  "size": "small"
+                },
+                "_store": {}
+              }
+            },
+            "key": "front",
+            "rendered": {
+              "nodeType": "function",
+              "type": "PlayingCard",
+              "props": {
+                "card": {
+                  "id": "B2",
+                  "suit": "none",
+                  "color": "none",
+                  "value": 0
+                },
+                "size": "small"
+              }
+            }
+          },
+          {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": [
+                {
+                  "type": "PlayingCard",
+                  "props": {
+                    "card": {
+                      "id": "D11"
+                    },
+                    "size": "small",
+                    "caption": true,
+                    "captionPosition": "bottom"
+                  },
+                  "_store": {}
+                },
+                {
+                  "type": "br",
+                  "props": {},
+                  "_store": {}
+                },
+                {
+                  "type": "span",
+                  "props": {
+                    "className": "card-definition",
+                    "children": "JD"
+                  },
+                  "_store": {}
+                }
+              ]
+            },
+            "key": "back",
+            "rendered": [
+              {
+                "nodeType": "function",
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "D11"
+                  },
+                  "size": "small",
+                  "caption": true,
+                  "captionPosition": "bottom"
+                }
+              },
+              {
+                "nodeType": "host",
+                "type": "br",
+                "props": {}
+              },
+              {
+                "nodeType": "host",
+                "type": "span",
+                "props": {
+                  "className": "card-definition",
+                  "children": "JD"
+                },
+                "rendered": "JD"
+              }
+            ]
+          }
+        ]
+      },
+      "type": "t",
+      "props": {
+        "isFlipped": true,
+        "flipDirection": "horizontal",
+        "containerStyle": {},
+        "cardStyles": {
+          "front": {},
+          "back": {}
+        },
+        "cardZIndex": "auto",
+        "flipSpeedBackToFront": 0.6,
+        "flipSpeedFrontToBack": 0.6,
+        "infinite": false,
+        "key": "3"
+      },
+      "children": [
+        {
+          "node": {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": {
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "B2",
+                    "suit": "none",
+                    "color": "none",
+                    "value": 0
+                  },
+                  "size": "small"
+                },
+                "_store": {}
+              }
+            },
+            "key": "front",
+            "rendered": {
+              "nodeType": "function",
+              "type": "PlayingCard",
+              "props": {
+                "card": {
+                  "id": "B2",
+                  "suit": "none",
+                  "color": "none",
+                  "value": 0
+                },
+                "size": "small"
+              }
+            }
+          },
+          "type": "div",
+          "props": {
+            "className": "card",
+            "key": "front"
+          },
+          "children": [
+            {
+              "node": {
+                "nodeType": "function",
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "B2",
+                    "suit": "none",
+                    "color": "none",
+                    "value": 0
+                  },
+                  "size": "small"
+                }
+              },
+              "type": "PlayingCard",
+              "props": {
+                "card": {
+                  "id": "B2",
+                  "suit": "none",
+                  "color": "none",
+                  "value": 0
+                },
+                "size": "small"
+              }
+            }
+          ]
+        },
+        {
+          "node": {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": [
+                {
+                  "type": "PlayingCard",
+                  "props": {
+                    "card": {
+                      "id": "D11"
+                    },
+                    "size": "small",
+                    "caption": true,
+                    "captionPosition": "bottom"
+                  },
+                  "_store": {}
+                },
+                {
+                  "type": "br",
+                  "props": {},
+                  "_store": {}
+                },
+                {
+                  "type": "span",
+                  "props": {
+                    "className": "card-definition",
+                    "children": "JD"
+                  },
+                  "_store": {}
+                }
+              ]
+            },
+            "key": "back",
+            "rendered": [
+              {
+                "nodeType": "function",
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "D11"
+                  },
+                  "size": "small",
+                  "caption": true,
+                  "captionPosition": "bottom"
+                }
+              },
+              {
+                "nodeType": "host",
+                "type": "br",
+                "props": {}
+              },
+              {
+                "nodeType": "host",
+                "type": "span",
+                "props": {
+                  "className": "card-definition",
+                  "children": "JD"
+                },
+                "rendered": "JD"
+              }
+            ]
+          },
+          "type": "div",
+          "props": {
+            "className": "card",
+            "key": "back"
+          },
+          "children": [
+            {
+              "node": {
+                "nodeType": "function",
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "D11"
+                  },
+                  "size": "small",
+                  "caption": true,
+                  "captionPosition": "bottom"
+                }
+              },
+              "type": "PlayingCard",
+              "props": {
+                "card": {
+                  "id": "D11"
+                },
+                "size": "small",
+                "caption": true,
+                "captionPosition": "bottom"
+              }
+            },
+            {
+              "node": {
+                "nodeType": "host",
+                "type": "br",
+                "props": {}
+              },
+              "type": "br",
+              "props": {}
+            },
+            {
+              "node": {
+                "nodeType": "host",
+                "type": "span",
+                "props": {
+                  "className": "card-definition",
+                  "children": "JD"
+                },
+                "rendered": "JD"
+              },
+              "type": "span",
+              "props": {
+                "className": "card-definition"
+              },
+              "children": [
+                "JD"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": {
+        "nodeType": "class",
+        "type": "t",
+        "props": {
+          "isFlipped": true,
+          "flipDirection": "horizontal",
+          "children": [
+            {
+              "type": "div",
+              "key": "front",
+              "props": {
+                "className": "card",
+                "children": {
+                  "type": "PlayingCard",
+                  "props": {
+                    "card": {
+                      "id": "B2",
+                      "suit": "none",
+                      "color": "none",
+                      "value": 0
+                    },
+                    "size": "small"
+                  },
+                  "_store": {}
+                }
+              },
+              "_store": {}
+            },
+            {
+              "type": "div",
+              "key": "back",
+              "props": {
+                "className": "card",
+                "children": [
+                  {
+                    "type": "PlayingCard",
+                    "props": {
+                      "card": {
+                        "id": "H11"
+                      },
+                      "size": "small",
+                      "caption": true,
+                      "captionPosition": "bottom"
+                    },
+                    "_store": {}
+                  },
+                  {
+                    "type": "br",
+                    "props": {},
+                    "_store": {}
+                  },
+                  {
+                    "type": "span",
+                    "props": {
+                      "className": "card-definition",
+                      "children": "11H"
+                    },
+                    "_store": {}
+                  }
+                ]
+              },
+              "_store": {}
+            }
+          ],
+          "containerStyle": {},
+          "cardStyles": {
+            "front": {},
+            "back": {}
+          },
+          "cardZIndex": "auto",
+          "flipSpeedBackToFront": 0.6,
+          "flipSpeedFrontToBack": 0.6,
+          "infinite": false
+        },
+        "key": "4",
+        "rendered": [
+          {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": {
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "B2",
+                    "suit": "none",
+                    "color": "none",
+                    "value": 0
+                  },
+                  "size": "small"
+                },
+                "_store": {}
+              }
+            },
+            "key": "front",
+            "rendered": {
+              "nodeType": "function",
+              "type": "PlayingCard",
+              "props": {
+                "card": {
+                  "id": "B2",
+                  "suit": "none",
+                  "color": "none",
+                  "value": 0
+                },
+                "size": "small"
+              }
+            }
+          },
+          {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": [
+                {
+                  "type": "PlayingCard",
+                  "props": {
+                    "card": {
+                      "id": "H11"
+                    },
+                    "size": "small",
+                    "caption": true,
+                    "captionPosition": "bottom"
+                  },
+                  "_store": {}
+                },
+                {
+                  "type": "br",
+                  "props": {},
+                  "_store": {}
+                },
+                {
+                  "type": "span",
+                  "props": {
+                    "className": "card-definition",
+                    "children": "11H"
+                  },
+                  "_store": {}
+                }
+              ]
+            },
+            "key": "back",
+            "rendered": [
+              {
+                "nodeType": "function",
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "H11"
+                  },
+                  "size": "small",
+                  "caption": true,
+                  "captionPosition": "bottom"
+                }
+              },
+              {
+                "nodeType": "host",
+                "type": "br",
+                "props": {}
+              },
+              {
+                "nodeType": "host",
+                "type": "span",
+                "props": {
+                  "className": "card-definition",
+                  "children": "11H"
+                },
+                "rendered": "11H"
+              }
+            ]
+          }
+        ]
+      },
+      "type": "t",
+      "props": {
+        "isFlipped": true,
+        "flipDirection": "horizontal",
+        "containerStyle": {},
+        "cardStyles": {
+          "front": {},
+          "back": {}
+        },
+        "cardZIndex": "auto",
+        "flipSpeedBackToFront": 0.6,
+        "flipSpeedFrontToBack": 0.6,
+        "infinite": false,
+        "key": "4"
+      },
+      "children": [
+        {
+          "node": {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": {
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "B2",
+                    "suit": "none",
+                    "color": "none",
+                    "value": 0
+                  },
+                  "size": "small"
+                },
+                "_store": {}
+              }
+            },
+            "key": "front",
+            "rendered": {
+              "nodeType": "function",
+              "type": "PlayingCard",
+              "props": {
+                "card": {
+                  "id": "B2",
+                  "suit": "none",
+                  "color": "none",
+                  "value": 0
+                },
+                "size": "small"
+              }
+            }
+          },
+          "type": "div",
+          "props": {
+            "className": "card",
+            "key": "front"
+          },
+          "children": [
+            {
+              "node": {
+                "nodeType": "function",
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "B2",
+                    "suit": "none",
+                    "color": "none",
+                    "value": 0
+                  },
+                  "size": "small"
+                }
+              },
+              "type": "PlayingCard",
+              "props": {
+                "card": {
+                  "id": "B2",
+                  "suit": "none",
+                  "color": "none",
+                  "value": 0
+                },
+                "size": "small"
+              }
+            }
+          ]
+        },
+        {
+          "node": {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": [
+                {
+                  "type": "PlayingCard",
+                  "props": {
+                    "card": {
+                      "id": "H11"
+                    },
+                    "size": "small",
+                    "caption": true,
+                    "captionPosition": "bottom"
+                  },
+                  "_store": {}
+                },
+                {
+                  "type": "br",
+                  "props": {},
+                  "_store": {}
+                },
+                {
+                  "type": "span",
+                  "props": {
+                    "className": "card-definition",
+                    "children": "11H"
+                  },
+                  "_store": {}
+                }
+              ]
+            },
+            "key": "back",
+            "rendered": [
+              {
+                "nodeType": "function",
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "H11"
+                  },
+                  "size": "small",
+                  "caption": true,
+                  "captionPosition": "bottom"
+                }
+              },
+              {
+                "nodeType": "host",
+                "type": "br",
+                "props": {}
+              },
+              {
+                "nodeType": "host",
+                "type": "span",
+                "props": {
+                  "className": "card-definition",
+                  "children": "11H"
+                },
+                "rendered": "11H"
+              }
+            ]
+          },
+          "type": "div",
+          "props": {
+            "className": "card",
+            "key": "back"
+          },
+          "children": [
+            {
+              "node": {
+                "nodeType": "function",
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "H11"
+                  },
+                  "size": "small",
+                  "caption": true,
+                  "captionPosition": "bottom"
+                }
+              },
+              "type": "PlayingCard",
+              "props": {
+                "card": {
+                  "id": "H11"
+                },
+                "size": "small",
+                "caption": true,
+                "captionPosition": "bottom"
+              }
+            },
+            {
+              "node": {
+                "nodeType": "host",
+                "type": "br",
+                "props": {}
+              },
+              "type": "br",
+              "props": {}
+            },
+            {
+              "node": {
+                "nodeType": "host",
+                "type": "span",
+                "props": {
+                  "className": "card-definition",
+                  "children": "11H"
+                },
+                "rendered": "11H"
+              },
+              "type": "span",
+              "props": {
+                "className": "card-definition"
+              },
+              "children": [
+                "11H"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": {
+        "nodeType": "class",
+        "type": "t",
+        "props": {
+          "isFlipped": true,
+          "flipDirection": "horizontal",
+          "children": [
+            {
+              "type": "div",
+              "key": "front",
+              "props": {
+                "className": "card",
+                "children": {
+                  "type": "PlayingCard",
+                  "props": {
+                    "card": {
+                      "id": "B2",
+                      "suit": "none",
+                      "color": "none",
+                      "value": 0
+                    },
+                    "size": "small"
+                  },
+                  "_store": {}
+                }
+              },
+              "_store": {}
+            },
+            {
+              "type": "div",
+              "key": "back",
+              "props": {
+                "className": "card",
+                "children": [
+                  {
+                    "type": "PlayingCard",
+                    "props": {
+                      "card": {
+                        "id": "C4"
+                      },
+                      "size": "small",
+                      "caption": true,
+                      "captionPosition": "bottom"
+                    },
+                    "_store": {}
+                  },
+                  {
+                    "type": "br",
+                    "props": {},
+                    "_store": {}
+                  },
+                  {
+                    "type": "span",
+                    "props": {
+                      "className": "card-definition",
+                      "children": "4C"
+                    },
+                    "_store": {}
+                  }
+                ]
+              },
+              "_store": {}
+            }
+          ],
+          "containerStyle": {},
+          "cardStyles": {
+            "front": {},
+            "back": {}
+          },
+          "cardZIndex": "auto",
+          "flipSpeedBackToFront": 0.6,
+          "flipSpeedFrontToBack": 0.6,
+          "infinite": false
+        },
+        "key": "5",
+        "rendered": [
+          {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": {
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "B2",
+                    "suit": "none",
+                    "color": "none",
+                    "value": 0
+                  },
+                  "size": "small"
+                },
+                "_store": {}
+              }
+            },
+            "key": "front",
+            "rendered": {
+              "nodeType": "function",
+              "type": "PlayingCard",
+              "props": {
+                "card": {
+                  "id": "B2",
+                  "suit": "none",
+                  "color": "none",
+                  "value": 0
+                },
+                "size": "small"
+              }
+            }
+          },
+          {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": [
+                {
+                  "type": "PlayingCard",
+                  "props": {
+                    "card": {
+                      "id": "C4"
+                    },
+                    "size": "small",
+                    "caption": true,
+                    "captionPosition": "bottom"
+                  },
+                  "_store": {}
+                },
+                {
+                  "type": "br",
+                  "props": {},
+                  "_store": {}
+                },
+                {
+                  "type": "span",
+                  "props": {
+                    "className": "card-definition",
+                    "children": "4C"
+                  },
+                  "_store": {}
+                }
+              ]
+            },
+            "key": "back",
+            "rendered": [
+              {
+                "nodeType": "function",
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "C4"
+                  },
+                  "size": "small",
+                  "caption": true,
+                  "captionPosition": "bottom"
+                }
+              },
+              {
+                "nodeType": "host",
+                "type": "br",
+                "props": {}
+              },
+              {
+                "nodeType": "host",
+                "type": "span",
+                "props": {
+                  "className": "card-definition",
+                  "children": "4C"
+                },
+                "rendered": "4C"
+              }
+            ]
+          }
+        ]
+      },
+      "type": "t",
+      "props": {
+        "isFlipped": true,
+        "flipDirection": "horizontal",
+        "containerStyle": {},
+        "cardStyles": {
+          "front": {},
+          "back": {}
+        },
+        "cardZIndex": "auto",
+        "flipSpeedBackToFront": 0.6,
+        "flipSpeedFrontToBack": 0.6,
+        "infinite": false,
+        "key": "5"
+      },
+      "children": [
+        {
+          "node": {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": {
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "B2",
+                    "suit": "none",
+                    "color": "none",
+                    "value": 0
+                  },
+                  "size": "small"
+                },
+                "_store": {}
+              }
+            },
+            "key": "front",
+            "rendered": {
+              "nodeType": "function",
+              "type": "PlayingCard",
+              "props": {
+                "card": {
+                  "id": "B2",
+                  "suit": "none",
+                  "color": "none",
+                  "value": 0
+                },
+                "size": "small"
+              }
+            }
+          },
+          "type": "div",
+          "props": {
+            "className": "card",
+            "key": "front"
+          },
+          "children": [
+            {
+              "node": {
+                "nodeType": "function",
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "B2",
+                    "suit": "none",
+                    "color": "none",
+                    "value": 0
+                  },
+                  "size": "small"
+                }
+              },
+              "type": "PlayingCard",
+              "props": {
+                "card": {
+                  "id": "B2",
+                  "suit": "none",
+                  "color": "none",
+                  "value": 0
+                },
+                "size": "small"
+              }
+            }
+          ]
+        },
+        {
+          "node": {
+            "nodeType": "host",
+            "type": "div",
+            "props": {
+              "className": "card",
+              "children": [
+                {
+                  "type": "PlayingCard",
+                  "props": {
+                    "card": {
+                      "id": "C4"
+                    },
+                    "size": "small",
+                    "caption": true,
+                    "captionPosition": "bottom"
+                  },
+                  "_store": {}
+                },
+                {
+                  "type": "br",
+                  "props": {},
+                  "_store": {}
+                },
+                {
+                  "type": "span",
+                  "props": {
+                    "className": "card-definition",
+                    "children": "4C"
+                  },
+                  "_store": {}
+                }
+              ]
+            },
+            "key": "back",
+            "rendered": [
+              {
+                "nodeType": "function",
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "C4"
+                  },
+                  "size": "small",
+                  "caption": true,
+                  "captionPosition": "bottom"
+                }
+              },
+              {
+                "nodeType": "host",
+                "type": "br",
+                "props": {}
+              },
+              {
+                "nodeType": "host",
+                "type": "span",
+                "props": {
+                  "className": "card-definition",
+                  "children": "4C"
+                },
+                "rendered": "4C"
+              }
+            ]
+          },
+          "type": "div",
+          "props": {
+            "className": "card",
+            "key": "back"
+          },
+          "children": [
+            {
+              "node": {
+                "nodeType": "function",
+                "type": "PlayingCard",
+                "props": {
+                  "card": {
+                    "id": "C4"
+                  },
+                  "size": "small",
+                  "caption": true,
+                  "captionPosition": "bottom"
+                }
+              },
+              "type": "PlayingCard",
+              "props": {
+                "card": {
+                  "id": "C4"
+                },
+                "size": "small",
+                "caption": true,
+                "captionPosition": "bottom"
+              }
+            },
+            {
+              "node": {
+                "nodeType": "host",
+                "type": "br",
+                "props": {}
+              },
+              "type": "br",
+              "props": {}
+            },
+            {
+              "node": {
+                "nodeType": "host",
+                "type": "span",
+                "props": {
+                  "className": "card-definition",
+                  "children": "4C"
+                },
+                "rendered": "4C"
+              },
+              "type": "span",
+              "props": {
+                "className": "card-definition"
+              },
+              "children": [
+                "4C"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": {
+        "nodeType": "host",
+        "type": "br",
+        "props": {}
+      },
+      "type": "br",
+      "props": {}
+    },
+    {
+      "node": {
+        "nodeType": "host",
+        "type": "span",
+        "props": {
+          "className": "poker-hand",
+          "children": "1 pair"
+        },
+        "rendered": "1 pair"
+      },
+      "type": "span",
+      "props": {
+        "className": "poker-hand"
+      },
+      "children": [
+        "1 pair"
+      ]
+    }
+  ]
+};
+
