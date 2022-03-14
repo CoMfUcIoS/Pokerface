@@ -1,5 +1,5 @@
 # Poker Face
-Reads input from a file and convert the specified hands.
+Reads input from a file and convert the specified hands. Check REQUIREMENTS.md
 
 ### Prerequisites
 - nodejs = 10.16.3 <https://nodejs.org/en/>
